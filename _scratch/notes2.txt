@@ -1,0 +1,4 @@
+learn to:
+  retrieve mini training examples
+  generate translations "nonparametrically"
+  by interacting with K--V store

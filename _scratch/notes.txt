@@ -1,0 +1,15 @@
+multitask training
+  joint
+  pre-train then fine-tune
+
+posterior regularization
+  input length correlated with output length
+  input reconstructable from output
+  minimize collisions
+
+  primitive: imagine recombining slices of input sequences
+    on training sequences: likelihood
+    on synthesized sequences: reconstruct input from output
+
+model structure
+  start with a phrase table / learn glue with copying
