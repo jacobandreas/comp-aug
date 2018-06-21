@@ -1,0 +1,3426 @@
+train/epoch_000/loss 22.8362
+train/epoch_000/ex c jjjjjjjj
+train/epoch_000/ex c h
+train/epoch_000/ex hhhhhh hh
+train/epoch_000/ex c be
+train/epoch_000/ex c g
+train/epoch_000{1.67s}
+train/epoch_001/loss 17.8316
+train/epoch_001/ex hhhhhhhhhhhhhh hghhh
+train/epoch_001/ex eeeeee cccgc
+train/epoch_001/ex dd dgg
+train/epoch_001/ex jjj bba
+train/epoch_001/ex dddddddd bbbbb
+train/epoch_001{1.66s}
+train/epoch_002/loss 15.7034
+train/epoch_002/ex hhhhhhhh ccccccc
+train/epoch_002/ex ee de
+train/epoch_002/ex ee hj
+train/epoch_002/ex aaaaaaa jhhhjh
+train/epoch_002/ex ee ee
+train/epoch_002{1.68s}
+train/epoch_003/loss 15.4253
+train/epoch_003/ex hhhhh gjjj
+train/epoch_003/ex cccc fff
+train/epoch_003/ex cccc ddd
+train/epoch_003/ex ddd jj
+train/epoch_003/ex hhhhh iiii
+train/epoch_003{1.64s}
+train/epoch_004/loss 14.3880
+train/epoch_004/ex ddd eei
+train/epoch_004/ex jjj bbb
+train/epoch_004/ex dd jj
+train/epoch_004/ex dd hh
+train/epoch_004/ex hhhhhh hhhhhhh
+train/epoch_004{1.66s}
+train/epoch_005/loss 13.5733
+train/epoch_005/ex d j
+train/epoch_005/ex ddddddddd fffffffff
+train/epoch_005/ex jjjjjj jjjjjj
+train/epoch_005/ex j d
+train/epoch_005/ex ccccc hhchc
+train/epoch_005{1.66s}
+train/epoch_006/loss 13.6279
+train/epoch_006/ex i f
+train/epoch_006/ex jjjjj fffff
+train/epoch_006/ex i c
+train/epoch_006/ex ii dg
+train/epoch_006/ex i d
+train/epoch_006{1.66s}
+train/epoch_007/loss 12.9868
+train/epoch_007/ex d e
+train/epoch_007/ex d jj
+train/epoch_007/ex ggg jjjj
+train/epoch_007/ex ccc ddee
+train/epoch_007/ex ggg eeb
+train/epoch_007{1.65s}
+train/epoch_008/loss 13.9978
+train/epoch_008/ex jjj iii
+train/epoch_008/ex jjjj ddda
+train/epoch_008/ex jjj ccj
+train/epoch_008/ex jjj jjf
+train/epoch_008/ex jjjj eeeee
+train/epoch_008{1.64s}
+train/epoch_009/loss 12.8823
+train/epoch_009/ex ddd gee
+train/epoch_009/ex ddd ggg
+train/epoch_009/ex gggg gece
+train/epoch_009/ex ggggggggg gffififi
+train/epoch_009/ex ggggg fffff
+train/epoch_009{1.62s}
+train/epoch_010/loss 12.7981
+train/epoch_010/ex iii ddd
+train/epoch_010/ex a a
+train/epoch_010/ex ggg hhi
+train/epoch_010/ex ggggg bcccb
+train/epoch_010/ex ggg iii
+train/epoch_010{1.71s}
+train/epoch_011/loss 13.0906
+train/epoch_011/ex ffff aaab
+train/epoch_011/ex fff fff
+train/epoch_011/ex jj bd
+train/epoch_011/ex jj fd
+train/epoch_011/ex ggg hgg
+train/epoch_011{1.75s}
+train/epoch_012/loss 13.2870
+train/epoch_012/ex ccccc hhhhh
+train/epoch_012/ex ff jj
+train/epoch_012/ex fff efg
+train/epoch_012/ex ff fg
+train/epoch_012/ex eee daa
+train/epoch_012{1.73s}
+train/epoch_013/loss 12.4678
+train/epoch_013/ex jjjj aaaa
+train/epoch_013/ex jj gg
+train/epoch_013/ex jjjj dddd
+train/epoch_013/ex d d
+train/epoch_013/ex jjjjj gggga
+train/epoch_013{1.68s}
+train/epoch_014/loss 12.5800
+train/epoch_014/ex ee ij
+train/epoch_014/ex h a
+train/epoch_014/ex cc dc
+train/epoch_014/ex jjjjj eaaaa
+train/epoch_014/ex c h
+train/epoch_014{1.70s}
+train/epoch_015/loss 13.1313
+train/epoch_015/ex jj jg
+train/epoch_015/ex ggggg iiiii
+train/epoch_015/ex jj dd
+train/epoch_015/ex jj dd
+train/epoch_015/ex bbbbb gggge
+train/epoch_015{1.66s}
+train/epoch_016/loss 12.1703
+train/epoch_016/ex fff aah
+train/epoch_016/ex c j
+train/epoch_016/ex fff igg
+train/epoch_016/ex cccccccc ddddddd
+train/epoch_016/ex ffff hhhh
+train/epoch_016{1.77s}
+train/epoch_017/loss 12.0576
+train/epoch_017/ex ccccccc afaaafa
+train/epoch_017/ex g i
+train/epoch_017/ex cccccc ccccce
+train/epoch_017/ex d i
+train/epoch_017/ex ggggg hbhhb
+train/epoch_017{1.72s}
+train/epoch_018/loss 12.5933
+train/epoch_018/ex iiii ffff
+train/epoch_018/ex bbbbbb eggggg
+train/epoch_018/ex aaa fhf
+train/epoch_018/ex ii fh
+train/epoch_018/ex bbbbb iiiii
+train/epoch_018{1.68s}
+train/epoch_019/loss 12.2876
+train/epoch_019/ex hhhh hjbb
+train/epoch_019/ex iii ffe
+train/epoch_019/ex b d
+train/epoch_019/ex c d
+train/epoch_019/ex ccccc fhjfh
+train/epoch_019{1.68s}
+train/epoch_020/loss 12.1402
+train/epoch_020/ex f c
+train/epoch_020/ex hhh ddd
+train/epoch_020/ex hhhh gggg
+train/epoch_020/ex fff iff
+train/epoch_020/ex hhh ddd
+train/epoch_020{1.70s}
+train/epoch_021/loss 12.5671
+train/epoch_021/ex eee bbb
+train/epoch_021/ex ii bb
+train/epoch_021/ex i a
+train/epoch_021/ex ggg jjj
+train/epoch_021/ex ggg fbb
+train/epoch_021{1.73s}
+train/epoch_022/loss 12.4098
+train/epoch_022/ex hhhh didd
+train/epoch_022/ex ddd dci
+train/epoch_022/ex ggg bee
+train/epoch_022/ex hh cj
+train/epoch_022/ex d a
+train/epoch_022{1.78s}
+train/epoch_023/loss 11.6609
+train/epoch_023/ex hhhhhh jhjhhh
+train/epoch_023/ex ccc adi
+train/epoch_023/ex h f
+train/epoch_023/ex ccc iii
+train/epoch_023/ex a d
+train/epoch_023{1.67s}
+train/epoch_024/loss 12.1278
+train/epoch_024/ex gggg iiii
+train/epoch_024/ex h e
+train/epoch_024/ex jjjj aaaa
+train/epoch_024/ex gg fg
+train/epoch_024/ex jjjj jjjb
+train/epoch_024{1.73s}
+train/epoch_025/loss 11.1727
+train/epoch_025/ex d g
+train/epoch_025/ex ee ce
+train/epoch_025/ex fff ffd
+train/epoch_025/ex hhhhh hhhhh
+train/epoch_025/ex ee he
+train/epoch_025{1.72s}
+train/epoch_026/loss 11.3304
+train/epoch_026/ex fff eai
+train/epoch_026/ex ccccccc ccjcccc
+train/epoch_026/ex aaaaa aaaai
+train/epoch_026/ex jj ja
+train/epoch_026/ex aaaa jjjf
+train/epoch_026{1.64s}
+train/epoch_027/loss 11.3086
+train/epoch_027/ex ii bj
+train/epoch_027/ex i f
+train/epoch_027/ex c c
+train/epoch_027/ex ccc dcd
+train/epoch_027/ex iiii giig
+train/epoch_027{1.68s}
+train/epoch_028/loss 11.5476
+train/epoch_028/ex eee bjj
+train/epoch_028/ex iiii jddd
+train/epoch_028/ex hhhh hhhh
+train/epoch_028/ex c g
+train/epoch_028/ex aa gd
+train/epoch_028{1.73s}
+train/epoch_029/loss 11.0319
+train/epoch_029/ex ddd ddj
+train/epoch_029/ex i e
+train/epoch_029/ex ee hh
+train/epoch_029/ex b c
+train/epoch_029/ex dddd cddi
+train/epoch_029{1.67s}
+train/epoch_030/loss 10.6165
+train/epoch_030/ex ggg ggg
+train/epoch_030/ex bb bb
+train/epoch_030/ex dddddd ddddhd
+train/epoch_030/ex jj jj
+train/epoch_030/ex iiii ibbb
+train/epoch_030{1.78s}
+train/epoch_031/loss 10.4115
+train/epoch_031/ex aaaaaa aagaaa
+train/epoch_031/ex gg dg
+train/epoch_031/ex bbbb bbgb
+train/epoch_031/ex gggg aagg
+train/epoch_031/ex eeee eeea
+train/epoch_031{1.69s}
+train/epoch_032/loss 9.9072
+train/epoch_032/ex dddd dddd
+train/epoch_032/ex ggg ggh
+train/epoch_032/ex iiiii iiiii
+train/epoch_032/ex cccc cccg
+train/epoch_032/ex bbbbbb gggdgg
+train/epoch_032{1.81s}
+train/epoch_033/loss 10.3149
+train/epoch_033/ex d d
+train/epoch_033/ex ii gb
+train/epoch_033/ex dd de
+train/epoch_033/ex iii iii
+train/epoch_033/ex gggg gbbe
+train/epoch_033{1.69s}
+train/epoch_034/loss 9.4857
+train/epoch_034/ex d i
+train/epoch_034/ex ccccc chcch
+train/epoch_034/ex ggggg ggggg
+train/epoch_034/ex bbb ddi
+train/epoch_034/ex d c
+train/epoch_034{1.68s}
+train/epoch_035/loss 9.1306
+train/epoch_035/ex i e
+train/epoch_035/ex eee deb
+train/epoch_035/ex ccc aca
+train/epoch_035/ex aaa haa
+train/epoch_035/ex d d
+train/epoch_035{1.63s}
+train/epoch_036/loss 9.2752
+train/epoch_036/ex bbb iii
+train/epoch_036/ex jjjjjj fjjjff
+train/epoch_036/ex ccc fcf
+train/epoch_036/ex ggg ggg
+train/epoch_036/ex bb bb
+train/epoch_036{1.65s}
+train/epoch_037/loss 9.0192
+train/epoch_037/ex bbb bbb
+train/epoch_037/ex eee hee
+train/epoch_037/ex hh fh
+train/epoch_037/ex ccc cbi
+train/epoch_037/ex e h
+train/epoch_037{1.63s}
+train/epoch_038/loss 8.5020
+train/epoch_038/ex ggg ggg
+train/epoch_038/ex aa ai
+train/epoch_038/ex d f
+train/epoch_038/ex jjj ahh
+train/epoch_038/ex jjjjjjjj jjjjjjj
+train/epoch_038{1.68s}
+train/epoch_039/loss 8.8784
+train/epoch_039/ex hhhh hhhh
+train/epoch_039/ex i i
+train/epoch_039/ex ddddd ddddd
+train/epoch_039/ex aaaa aaaa
+train/epoch_039/ex hhh ccc
+train/epoch_039{1.69s}
+train/epoch_040/loss 8.5456
+train/epoch_040/ex eee iff
+train/epoch_040/ex jjj jjj
+train/epoch_040/ex d e
+train/epoch_040/ex fffff ffffa
+train/epoch_040/ex ccc ccc
+train/epoch_040{1.68s}
+train/epoch_041/loss 7.9460
+train/epoch_041/ex a d
+train/epoch_041/ex bb ji
+train/epoch_041/ex f j
+train/epoch_041/ex d h
+train/epoch_041/ex gggggg gggggg
+train/epoch_041{1.75s}
+train/epoch_042/loss 8.4096
+train/epoch_042/ex jjjjj jjbbj
+train/epoch_042/ex bbbbb bbbib
+train/epoch_042/ex ee be
+train/epoch_042/ex hh be
+train/epoch_042/ex iiiiiii iiiigii
+train/epoch_042{1.70s}
+train/epoch_043/loss 8.3319
+train/epoch_043/ex hhhhhhh cccehhe
+train/epoch_043/ex aaaaaaa aabaaaa
+train/epoch_043/ex jjjj igjj
+train/epoch_043/ex bbb bbb
+train/epoch_043/ex eee iee
+train/epoch_043{1.61s}
+train/epoch_044/loss 8.2171
+train/epoch_044/ex bbb ajc
+train/epoch_044/ex jjjj jjjj
+train/epoch_044/ex iiii ciii
+train/epoch_044/ex dddd dddd
+train/epoch_044/ex dd dg
+train/epoch_044{1.70s}
+train/epoch_045/loss 8.4160
+train/epoch_045/ex ee fb
+train/epoch_045/ex d d
+train/epoch_045/ex fff fff
+train/epoch_045/ex jj de
+train/epoch_045/ex d d
+train/epoch_045{1.74s}
+train/epoch_046/loss 7.9525
+train/epoch_046/ex b a
+train/epoch_046/ex j j
+train/epoch_046/ex b c
+train/epoch_046/ex b d
+train/epoch_046/ex ggg gga
+train/epoch_046{1.65s}
+train/epoch_047/loss 8.0812
+train/epoch_047/ex ccc cee
+train/epoch_047/ex eeeee eeeee
+train/epoch_047/ex e e
+train/epoch_047/ex bbbbb abaaa
+train/epoch_047/ex hhhhh hfhhh
+train/epoch_047{1.64s}
+train/epoch_048/loss 7.9757
+train/epoch_048/ex eee eee
+train/epoch_048/ex jjjj jjjj
+train/epoch_048/ex hh hh
+train/epoch_048/ex fff ddd
+train/epoch_048/ex aaaaaaaa babababa
+train/epoch_048{1.63s}
+train/epoch_049/loss 8.2288
+train/epoch_049/ex aaa haa
+train/epoch_049/ex d g
+train/epoch_049/ex bb gh
+train/epoch_049/ex ccc ccc
+train/epoch_049/ex jjjj jddj
+train/epoch_049{1.67s}
+train/epoch_050/loss 7.7076
+train/epoch_050/ex bbbbbbb bbbbbbb
+train/epoch_050/ex jjjj jjjj
+train/epoch_050/ex aaaaaaaaaa aaaaaaaaae
+train/epoch_050/ex ddddddd cccdccd
+train/epoch_050/ex gggggg gjjggj
+train/epoch_050{1.67s}
+train/epoch_051/loss 7.5583
+train/epoch_051/ex gggg gcgg
+train/epoch_051/ex ffff fffj
+train/epoch_051/ex iiiiiii gifffff
+train/epoch_051/ex ii bb
+train/epoch_051/ex iiiiii igggig
+train/epoch_051{1.72s}
+train/epoch_052/loss 8.0744
+train/epoch_052/ex fffffff fefffff
+train/epoch_052/ex hhhhh hhihh
+train/epoch_052/ex jj ae
+train/epoch_052/ex bbbb bccc
+train/epoch_052/ex iiiih iccci
+train/epoch_052{1.66s}
+train/epoch_053/loss 7.7585
+train/epoch_053/ex dddd aadd
+train/epoch_053/ex eeeeg ggeee
+train/epoch_053/ex ggg gcb
+train/epoch_053/ex iiiii iiiii
+train/epoch_053/ex j f
+train/epoch_053{1.63s}
+train/epoch_054/loss 7.6292
+train/epoch_054/ex g b
+train/epoch_054/ex jjjj jjjj
+train/epoch_054/ex ddd ddd
+train/epoch_054/ex fffff aafac
+train/epoch_054/ex fff efc
+train/epoch_054{1.70s}
+train/epoch_055/loss 7.4907
+train/epoch_055/ex cccc aaaa
+train/epoch_055/ex b e
+train/epoch_055/ex bbbbb babja
+train/epoch_055/ex bb ib
+train/epoch_055/ex bbbbb bbbbf
+train/epoch_055{1.70s}
+train/epoch_056/loss 7.4383
+train/epoch_056/ex aaaaaaaaa aiaaiiiaa
+train/epoch_056/ex i a
+train/epoch_056/ex i i
+train/epoch_056/ex dd fe
+train/epoch_056/ex iiii iiii
+train/epoch_056{1.70s}
+train/epoch_057/loss 6.6370
+train/epoch_057/ex hh hh
+train/epoch_057/ex jjjjj jjjjj
+train/epoch_057/ex ff fb
+train/epoch_057/ex hhh hhg
+train/epoch_057/ex hd ih
+train/epoch_057{1.73s}
+train/epoch_058/loss 7.4613
+train/epoch_058/ex iiiii iaiii
+train/epoch_058/ex eeee fbbf
+train/epoch_058/ex i b
+train/epoch_058/ex ddd ddd
+train/epoch_058/ex ggggg gbggb
+train/epoch_058{1.63s}
+train/epoch_059/loss 7.8029
+train/epoch_059/ex ggg iee
+train/epoch_059/ex eeeee eeeee
+train/epoch_059/ex j h
+train/epoch_059/ex bbbb bbbc
+train/epoch_059/ex d a
+train/epoch_059{1.68s}
+train/epoch_060/loss 7.4298
+train/epoch_060/ex ddd ddd
+train/epoch_060/ex b b
+train/epoch_060/ex b d
+train/epoch_060/ex ffffff eeffee
+train/epoch_060/ex iiiiiii iiiiiii
+train/epoch_060{1.63s}
+train/epoch_061/loss 7.6609
+train/epoch_061/ex iiiiii iiigii
+train/epoch_061/ex fffif fafff
+train/epoch_061/ex bbb fdb
+train/epoch_061/ex bbbb baaa
+train/epoch_061/ex i i
+train/epoch_061{1.66s}
+train/epoch_062/loss 7.3057
+train/epoch_062/ex aaaaaaa aaaaaaa
+train/epoch_062/ex aaaaaaaaa aaaaaaaaa
+train/epoch_062/ex ai ai
+train/epoch_062/ex iiiii ibiii
+train/epoch_062/ex hh eh
+train/epoch_062{1.69s}
+train/epoch_063/loss 7.3409
+train/epoch_063/ex g e
+train/epoch_063/ex eeeei idide
+train/epoch_063/ex d a
+train/epoch_063/ex i i
+train/epoch_063/ex g g
+train/epoch_063{1.71s}
+train/epoch_064/loss 6.9645
+train/epoch_064/ex i h
+train/epoch_064/ex ee hh
+train/epoch_064/ex aaa aaa
+train/epoch_064/ex ccc ccc
+train/epoch_064/ex ii fi
+train/epoch_064{1.65s}
+train/epoch_065/loss 7.2653
+train/epoch_065/ex dd db
+train/epoch_065/ex fe de
+train/epoch_065/ex bfb fef
+train/epoch_065/ex eee bbb
+train/epoch_065/ex eee eej
+train/epoch_065{1.66s}
+train/epoch_066/loss 7.0616
+train/epoch_066/ex iiii iiii
+train/epoch_066/ex i j
+train/epoch_066/ex j i
+train/epoch_066/ex aaaa aaad
+train/epoch_066/ex ggggg ggggg
+train/epoch_066{1.67s}
+train/epoch_067/loss 7.0897
+train/epoch_067/ex j i
+train/epoch_067/ex b d
+train/epoch_067/ex ccccc ccccd
+train/epoch_067/ex jjjj jjjj
+train/epoch_067/ex dd bb
+train/epoch_067{1.68s}
+train/epoch_068/loss 7.2424
+Epoch    68: reducing learning rate of group 0 to 1.0000e-03.
+train/epoch_068/ex b b
+train/epoch_068/ex hhhe eeeg
+train/epoch_068/ex ggggg ggggg
+train/epoch_068/ex bbbbbbbb bggggggg
+train/epoch_068/ex d b
+train/epoch_068{1.78s}
+train/epoch_069/loss 6.6082
+train/epoch_069/ex iiiii iiiii
+train/epoch_069/ex bbiiii ibbbbb
+train/epoch_069/ex jjjj jjjj
+train/epoch_069/ex ggee egge
+train/epoch_069/ex bbbb bbbi
+train/epoch_069{1.68s}
+train/epoch_070/loss 6.7222
+train/epoch_070/ex hhhh bgbb
+train/epoch_070/ex dddd dddd
+train/epoch_070/ex aaj ajj
+train/epoch_070/ex cccc eeee
+train/epoch_070/ex j j
+train/epoch_070{1.61s}
+train/epoch_071/loss 7.0077
+train/epoch_071/ex bc cb
+train/epoch_071/ex ggg gga
+train/epoch_071/ex fgf fgf
+train/epoch_071/ex e i
+train/epoch_071/ex bbbb bebb
+train/epoch_071{1.60s}
+train/epoch_072/loss 6.9859
+train/epoch_072/ex cacc acca
+train/epoch_072/ex ffff ffff
+train/epoch_072/ex ddddddd ddddddd
+train/epoch_072/ex ddd ddd
+train/epoch_072/ex gggg gggg
+train/epoch_072{1.64s}
+train/epoch_073/loss 6.4847
+train/epoch_073/ex d f
+train/epoch_073/ex dd df
+train/epoch_073/ex cccccb ebcbbc
+train/epoch_073/ex jccc ccjc
+train/epoch_073/ex jjj aaa
+train/epoch_073{1.62s}
+train/epoch_074/loss 6.6003
+train/epoch_074/ex eeec cece
+train/epoch_074/ex jjjj cjjj
+train/epoch_074/ex jjjj jjjj
+train/epoch_074/ex abba abba
+train/epoch_074/ex hb gj
+train/epoch_074{1.77s}
+train/epoch_075/loss 6.7520
+train/epoch_075/ex dd he
+train/epoch_075/ex hhhh hfhh
+train/epoch_075/ex h h
+train/epoch_075/ex ggggggg ggggggg
+train/epoch_075/ex aaaaaj jajjja
+train/epoch_075{1.66s}
+train/epoch_076/loss 6.6033
+train/epoch_076/ex hhhhh haahh
+train/epoch_076/ex iii iii
+train/epoch_076/ex aac aca
+train/epoch_076/ex ff ff
+train/epoch_076/ex bbbbbbb bbbbbbb
+train/epoch_076{1.66s}
+train/epoch_077/loss 6.5350
+train/epoch_077/ex c e
+train/epoch_077/ex dg dg
+train/epoch_077/ex gggggg gggggf
+train/epoch_077/ex ccgggg gccgcc
+train/epoch_077/ex ffffff ffffff
+train/epoch_077{1.72s}
+train/epoch_078/loss 6.7589
+train/epoch_078/ex eefe fefe
+train/epoch_078/ex ddddd ddddd
+train/epoch_078/ex cc aa
+train/epoch_078/ex ddd ddd
+train/epoch_078/ex cc fc
+train/epoch_078{1.64s}
+train/epoch_079/loss 6.8897
+train/epoch_079/ex aaaaa aaaah
+train/epoch_079/ex eeee eeee
+train/epoch_079/ex jddbj jbbbb
+train/epoch_079/ex b b
+train/epoch_079/ex d d
+train/epoch_079{1.62s}
+train/epoch_080/loss 6.6700
+train/epoch_080/ex bbb jjj
+train/epoch_080/ex cccc cccc
+train/epoch_080/ex de ec
+train/epoch_080/ex jjjj jjjj
+train/epoch_080/ex dddd dddd
+train/epoch_080{1.69s}
+train/epoch_081/loss 6.2871
+train/epoch_081/ex ii hi
+train/epoch_081/ex hh ii
+train/epoch_081/ex da gd
+train/epoch_081/ex jg jd
+train/epoch_081/ex eei dee
+train/epoch_081{1.69s}
+train/epoch_082/loss 6.6473
+train/epoch_082/ex dddg gddd
+train/epoch_082/ex eeb ebb
+train/epoch_082/ex didi fdfd
+train/epoch_082/ex cc ii
+train/epoch_082/ex bdb edb
+train/epoch_082{1.62s}
+train/epoch_083/loss 6.8588
+train/epoch_083/ex ggg gge
+train/epoch_083/ex fffe efff
+train/epoch_083/ex ccccc dcccc
+train/epoch_083/ex fafa adea
+train/epoch_083/ex cccccc cceeie
+train/epoch_083{1.69s}
+train/epoch_084/loss 6.4701
+train/epoch_084/ex hhh bhh
+train/epoch_084/ex eee geg
+train/epoch_084/ex ccccc ceeee
+train/epoch_084/ex dddd ddad
+train/epoch_084/ex jc fj
+train/epoch_084{1.68s}
+train/epoch_085/loss 6.4537
+train/epoch_085/ex aa ef
+train/epoch_085/ex hhh fff
+train/epoch_085/ex aaaa aggg
+train/epoch_085/ex hhh hhh
+train/epoch_085/ex c c
+train/epoch_085{1.64s}
+train/epoch_086/loss 6.0545
+train/epoch_086/ex iiiii eeeee
+train/epoch_086/ex eeej jejj
+train/epoch_086/ex ccc aaa
+train/epoch_086/ex ggggg hgggg
+train/epoch_086/ex c c
+train/epoch_086{1.63s}
+train/epoch_087/loss 6.5613
+train/epoch_087/ex aaaaaaa fffhaah
+train/epoch_087/ex b a
+train/epoch_087/ex iiii iibi
+train/epoch_087/ex gg he
+train/epoch_087/ex ffff fffg
+train/epoch_087{1.71s}
+train/epoch_088/loss 6.4960
+train/epoch_088/ex eee eei
+train/epoch_088/ex hch hhc
+train/epoch_088/ex bf fi
+train/epoch_088/ex bbb bbb
+train/epoch_088/ex ddddddd ddddddd
+train/epoch_088{1.59s}
+train/epoch_089/loss 6.1300
+train/epoch_089/ex dddddddddddd dddddddddddd
+train/epoch_089/ex ccc ccc
+train/epoch_089/ex ccccc dcccc
+train/epoch_089/ex ccc ccc
+train/epoch_089/ex bb bh
+train/epoch_089{1.69s}
+train/epoch_090/loss 6.4890
+train/epoch_090/ex cccc cccg
+train/epoch_090/ex hhh iii
+train/epoch_090/ex cc cc
+train/epoch_090/ex c h
+train/epoch_090/ex dc hd
+train/epoch_090{1.68s}
+train/epoch_091/loss 6.2117
+train/epoch_091/ex cccc cccc
+train/epoch_091/ex iiiiiii iiiiiii
+train/epoch_091/ex cca cca
+train/epoch_091/ex aaaaaa iaacaa
+train/epoch_091/ex c c
+train/epoch_091{1.74s}
+train/epoch_092/loss 6.4197
+train/epoch_092/ex fbf cfb
+train/epoch_092/ex ccc ccj
+train/epoch_092/ex bb bb
+train/epoch_092/ex fff fff
+train/epoch_092/ex db bf
+train/epoch_092{1.66s}
+train/epoch_093/loss 6.1316
+train/epoch_093/ex gggggg cggggg
+train/epoch_093/ex efe hef
+train/epoch_093/ex jjjj jjjj
+train/epoch_093/ex i d
+train/epoch_093/ex eee eej
+train/epoch_093{1.67s}
+train/epoch_094/loss 6.6532
+train/epoch_094/ex hhh hhh
+train/epoch_094/ex ccgc gcgc
+train/epoch_094/ex hhh dhh
+train/epoch_094/ex cccccc cccccc
+train/epoch_094/ex eee aaa
+train/epoch_094{1.59s}
+train/epoch_095/loss 6.5366
+train/epoch_095/ex fb fg
+train/epoch_095/ex dddddd dddcdd
+train/epoch_095/ex biii ebbb
+train/epoch_095/ex fb fb
+train/epoch_095/ex ggg ggg
+train/epoch_095{1.63s}
+train/epoch_096/loss 6.7092
+train/epoch_096/ex gggg fggg
+train/epoch_096/ex e c
+train/epoch_096/ex ddd ddd
+train/epoch_096/ex i f
+train/epoch_096/ex i i
+train/epoch_096{1.71s}
+train/epoch_097/loss 6.5643
+Epoch    97: reducing learning rate of group 0 to 5.0000e-04.
+train/epoch_097/ex bbbbbb dbbbbb
+train/epoch_097/ex b b
+train/epoch_097/ex hff fif
+train/epoch_097/ex ccc ece
+train/epoch_097/ex addddd ddddda
+train/epoch_097{1.65s}
+train/epoch_098/loss 6.5670
+train/epoch_098/ex ffh jeh
+train/epoch_098/ex ii di
+train/epoch_098/ex cccccc cceecc
+train/epoch_098/ex e a
+train/epoch_098/ex jjjj jjjj
+train/epoch_098{1.66s}
+train/epoch_099/loss 6.3209
+train/epoch_099/ex bbb bfb
+train/epoch_099/ex fffff fffff
+train/epoch_099/ex je ge
+train/epoch_099/ex gjgjgj jjjggj
+train/epoch_099/ex ccc ccc
+train/epoch_099{1.64s}
+train/epoch_100/loss 6.8810
+train/epoch_100/ex jiij ijii
+train/epoch_100/ex ggg ggj
+train/epoch_100/ex hhh hhh
+train/epoch_100/ex gg gg
+train/epoch_100/ex iii eej
+train/epoch_100{1.69s}
+train/epoch_101/loss 6.2407
+train/epoch_101/ex ic ch
+train/epoch_101/ex ccc cjc
+train/epoch_101/ex ic fc
+train/epoch_101/ex jjh hjj
+train/epoch_101/ex hhhhh jhjhj
+train/epoch_101{1.68s}
+train/epoch_102/loss 6.1463
+train/epoch_102/ex adddaa djajag
+train/epoch_102/ex iii hhh
+train/epoch_102/ex eeee eaee
+train/epoch_102/ex d f
+train/epoch_102/ex ggggh hhghh
+train/epoch_102{1.70s}
+train/epoch_103/loss 6.5568
+train/epoch_103/ex jffjf jjfjj
+train/epoch_103/ex bbb bbb
+train/epoch_103/ex jjjjjjccj cjcjcjjcj
+train/epoch_103/ex hhh hhh
+train/epoch_103/ex hhh hhh
+train/epoch_103{1.71s}
+train/epoch_104/loss 6.4236
+train/epoch_104/ex jjj iii
+train/epoch_104/ex aaaaaaaaa aaaaaaaaa
+train/epoch_104/ex eeea ggaa
+train/epoch_104/ex i i
+train/epoch_104/ex bbbb bbbb
+train/epoch_104{1.65s}
+train/epoch_105/loss 6.5115
+train/epoch_105/ex iiiii iiiia
+train/epoch_105/ex aai aii
+train/epoch_105/ex jjjd hhhj
+train/epoch_105/ex ffff ffff
+train/epoch_105/ex ffjjff jffffj
+train/epoch_105{1.72s}
+train/epoch_106/loss 6.6293
+train/epoch_106/ex c c
+train/epoch_106/ex bd df
+train/epoch_106/ex cc cg
+train/epoch_106/ex jhhj hjjj
+train/epoch_106/ex hhhh hhhh
+train/epoch_106{1.67s}
+train/epoch_107/loss 7.0168
+train/epoch_107/ex cccc cccc
+train/epoch_107/ex jjjjjjjjjj jjhhjhjjhh
+train/epoch_107/ex i f
+train/epoch_107/ex b c
+train/epoch_107/ex aaa aab
+train/epoch_107{1.69s}
+train/epoch_108/loss 6.7053
+Epoch   108: reducing learning rate of group 0 to 2.5000e-04.
+train/epoch_108/ex fbfb ffbf
+train/epoch_108/ex e e
+train/epoch_108/ex hhh hhh
+train/epoch_108/ex aaaaa jaaaa
+train/epoch_108/ex e e
+train/epoch_108{1.66s}
+train/epoch_109/loss 6.0841
+train/epoch_109/ex jc ej
+train/epoch_109/ex hhhhhhhh chhhhhcc
+train/epoch_109/ex geg hee
+train/epoch_109/ex acacac caacac
+train/epoch_109/ex gj bg
+train/epoch_109{1.74s}
+train/epoch_110/loss 6.3016
+train/epoch_110/ex ic ic
+train/epoch_110/ex j e
+train/epoch_110/ex fffdd ffddd
+train/epoch_110/ex hhgg chha
+train/epoch_110/ex iej fij
+train/epoch_110{1.63s}
+train/epoch_111/loss 6.5304
+train/epoch_111/ex dd dd
+train/epoch_111/ex ccc ccc
+train/epoch_111/ex aaa aaf
+train/epoch_111/ex hhhhhhhhc ccchhhhcc
+train/epoch_111/ex ccccc ccfcc
+train/epoch_111{1.73s}
+train/epoch_112/loss 6.1326
+train/epoch_112/ex ib ib
+train/epoch_112/ex ggg ggg
+train/epoch_112/ex ggggg gjggg
+train/epoch_112/ex dddddd ddddic
+train/epoch_112/ex hhh eee
+train/epoch_112{1.72s}
+train/epoch_113/loss 5.9173
+train/epoch_113/ex cccc cccc
+train/epoch_113/ex cb bc
+train/epoch_113/ex gggggg ggggbg
+train/epoch_113/ex jjbb gbbb
+train/epoch_113/ex ddf ffd
+train/epoch_113{1.71s}
+train/epoch_114/loss 6.6359
+train/epoch_114/ex bggb bgbg
+train/epoch_114/ex aaa aaa
+train/epoch_114/ex j j
+train/epoch_114/ex edede ddedi
+train/epoch_114/ex heehe ehbdh
+train/epoch_114{1.61s}
+train/epoch_115/loss 5.9474
+train/epoch_115/ex ddd bdd
+train/epoch_115/ex bbbgg bbgbb
+train/epoch_115/ex ccccc ccccc
+train/epoch_115/ex ffff ffff
+train/epoch_115/ex j e
+train/epoch_115{1.72s}
+train/epoch_116/loss 6.7458
+train/epoch_116/ex fff aaa
+train/epoch_116/ex eee iie
+train/epoch_116/ex ggggggg ggggigi
+train/epoch_116/ex e h
+train/epoch_116/ex cc hc
+train/epoch_116{1.58s}
+train/epoch_117/loss 5.9001
+train/epoch_117/ex d h
+train/epoch_117/ex cccc cccc
+train/epoch_117/ex aeea eeaa
+train/epoch_117/ex iiiia iiiei
+train/epoch_117/ex did ied
+train/epoch_117{1.70s}
+train/epoch_118/loss 6.5518
+train/epoch_118/ex gj jb
+train/epoch_118/ex jj aa
+train/epoch_118/ex ccce eccc
+train/epoch_118/ex dddddddd ffbfffff
+train/epoch_118/ex he ch
+train/epoch_118{1.68s}
+train/epoch_119/loss 6.4336
+train/epoch_119/ex ddg add
+train/epoch_119/ex dd dd
+train/epoch_119/ex eeeeeee eeeeeee
+train/epoch_119/ex iiii iiii
+train/epoch_119/ex ififf iiiif
+train/epoch_119{1.65s}
+train/epoch_120/loss 6.3349
+train/epoch_120/ex df df
+train/epoch_120/ex fff fff
+train/epoch_120/ex jjjjj hhhhh
+train/epoch_120/ex aaaaaaa aaaaaaa
+train/epoch_120/ex bigb igbb
+train/epoch_120{1.65s}
+train/epoch_121/loss 6.3156
+train/epoch_121/ex icic cjii
+train/epoch_121/ex jj jj
+train/epoch_121/ex cd cg
+train/epoch_121/ex jjjj djjj
+train/epoch_121/ex eeee eeee
+train/epoch_121{1.65s}
+train/epoch_122/loss 6.7921
+train/epoch_122/ex dd dd
+train/epoch_122/ex eeeeeeeee eeeeeeeee
+train/epoch_122/ex fffff fffff
+train/epoch_122/ex hhh hjh
+train/epoch_122/ex aaa aaa
+train/epoch_122{1.66s}
+train/epoch_123/loss 6.4344
+train/epoch_123/ex gggggggg aaaaagaa
+train/epoch_123/ex ccccc ccccc
+train/epoch_123/ex ifififfiff ififfifiif
+train/epoch_123/ex iai fif
+train/epoch_123/ex i i
+train/epoch_123{1.70s}
+train/epoch_124/loss 6.5039
+train/epoch_124/ex jjjj jjjj
+train/epoch_124/ex c f
+train/epoch_124/ex jjjjj jjjjj
+train/epoch_124/ex jb ej
+train/epoch_124/ex jjjjj jjjja
+train/epoch_124{1.63s}
+train/epoch_125/loss 6.2283
+train/epoch_125/ex aa ad
+train/epoch_125/ex fjff ffjf
+train/epoch_125/ex d a
+train/epoch_125/ex hhhh hhhh
+train/epoch_125/ex eeeee eeeee
+train/epoch_125{1.74s}
+train/epoch_126/loss 6.2067
+train/epoch_126/ex dc id
+train/epoch_126/ex ccc ccc
+train/epoch_126/ex hhh hhh
+train/epoch_126/ex iii iii
+train/epoch_126/ex e h
+train/epoch_126{1.64s}
+train/epoch_127/loss 6.3030
+train/epoch_127/ex aaa hhh
+train/epoch_127/ex b j
+train/epoch_127/ex hj ha
+train/epoch_127/ex i b
+train/epoch_127/ex ccg cgg
+train/epoch_127{1.64s}
+train/epoch_128/loss 6.2002
+Epoch   128: reducing learning rate of group 0 to 1.2500e-04.
+train/epoch_128/ex gde edi
+train/epoch_128/ex fei ife
+train/epoch_128/ex bbbbbbh bbbbhbb
+train/epoch_128/ex j j
+train/epoch_128/ex eeeee eeehe
+train/epoch_128{1.67s}
+train/epoch_129/loss 6.1837
+train/epoch_129/ex ccbbbbbbbc cbcccccccc
+train/epoch_129/ex gcgc gicg
+train/epoch_129/ex ccbcbc bccccb
+train/epoch_129/ex jdddj dddjd
+train/epoch_129/ex bb gg
+train/epoch_129{1.65s}
+train/epoch_130/loss 6.4865
+train/epoch_130/ex gg gg
+train/epoch_130/ex ddddd ddddj
+train/epoch_130/ex hhib hfii
+train/epoch_130/ex d j
+train/epoch_130/ex jjjjjjj jjjjjjj
+train/epoch_130{1.64s}
+train/epoch_131/loss 5.8629
+train/epoch_131/ex eeeeeeeee eeeeeeeee
+train/epoch_131/ex gdeg dgdg
+train/epoch_131/ex fff ffg
+train/epoch_131/ex dddd dddh
+train/epoch_131/ex bbbb bbbb
+train/epoch_131{1.69s}
+train/epoch_132/loss 6.4737
+train/epoch_132/ex ccccc ccccc
+train/epoch_132/ex ddd ddd
+train/epoch_132/ex ggg ccc
+train/epoch_132/ex aag aaf
+train/epoch_132/ex ch hc
+train/epoch_132{1.70s}
+train/epoch_133/loss 5.8846
+train/epoch_133/ex hhh hhh
+train/epoch_133/ex jjjjj jjjjd
+train/epoch_133/ex dde jee
+train/epoch_133/ex b g
+train/epoch_133/ex ddii iddd
+train/epoch_133{1.70s}
+train/epoch_134/loss 6.2642
+train/epoch_134/ex aaaaaa baaaaa
+train/epoch_134/ex eeeee eeeee
+train/epoch_134/ex ccj cjj
+train/epoch_134/ex b d
+train/epoch_134/ex j e
+train/epoch_134{1.73s}
+train/epoch_135/loss 6.5267
+train/epoch_135/ex fj jf
+train/epoch_135/ex eeeeeeee eeeeehee
+train/epoch_135/ex aaaga aadga
+train/epoch_135/ex fafaf feffe
+train/epoch_135/ex d i
+train/epoch_135{1.63s}
+train/epoch_136/loss 6.0839
+train/epoch_136/ex ffff ffff
+train/epoch_136/ex d d
+train/epoch_136/ex eeee eeee
+train/epoch_136/ex ie ef
+train/epoch_136/ex hb hb
+train/epoch_136{1.63s}
+train/epoch_137/loss 6.1981
+train/epoch_137/ex ggggggggggg ggggggggggg
+train/epoch_137/ex cccccccc cccccccc
+train/epoch_137/ex jjj jjj
+train/epoch_137/ex d b
+train/epoch_137/ex iiiii iiiif
+train/epoch_137{1.70s}
+train/epoch_138/loss 5.9685
+train/epoch_138/ex ffffff ffffff
+train/epoch_138/ex hhh hhh
+train/epoch_138/ex jjdd jded
+train/epoch_138/ex ggg ggg
+train/epoch_138/ex i j
+train/epoch_138{1.69s}
+train/epoch_139/loss 6.2380
+train/epoch_139/ex ccc ehh
+train/epoch_139/ex iiff ffii
+train/epoch_139/ex hjj aah
+train/epoch_139/ex hhhhh hhhhh
+train/epoch_139/ex dde edd
+train/epoch_139{1.71s}
+train/epoch_140/loss 5.9524
+train/epoch_140/ex ggg hgg
+train/epoch_140/ex bb bf
+train/epoch_140/ex fffffg fgffff
+train/epoch_140/ex ee ee
+train/epoch_140/ex fffffff fffffff
+train/epoch_140{1.78s}
+train/epoch_141/loss 6.1213
+train/epoch_141/ex hhhhh hhhhh
+train/epoch_141/ex gbgb gdbf
+train/epoch_141/ex j c
+train/epoch_141/ex jjjj jjjj
+train/epoch_141/ex iiiii giiii
+train/epoch_141{1.64s}
+train/epoch_142/loss 5.9057
+Epoch   142: reducing learning rate of group 0 to 6.2500e-05.
+train/epoch_142/ex jjjj jjjj
+train/epoch_142/ex jj jj
+train/epoch_142/ex i g
+train/epoch_142/ex iiiii iiiii
+train/epoch_142/ex d c
+train/epoch_142{1.72s}
+train/epoch_143/loss 6.3737
+train/epoch_143/ex da da
+train/epoch_143/ex e c
+train/epoch_143/ex iiiiiii iiiiiii
+train/epoch_143/ex bbb bbb
+train/epoch_143/ex jg ij
+train/epoch_143{1.61s}
+train/epoch_144/loss 6.5032
+train/epoch_144/ex eieefe fddfei
+train/epoch_144/ex ddb djj
+train/epoch_144/ex fd fg
+train/epoch_144/ex gggg gggg
+train/epoch_144/ex ccccjj cccjcc
+train/epoch_144{1.64s}
+train/epoch_145/loss 6.1498
+train/epoch_145/ex hhhh hhhh
+train/epoch_145/ex ffif iifi
+train/epoch_145/ex ai id
+train/epoch_145/ex aja aaj
+train/epoch_145/ex jj ji
+train/epoch_145{1.64s}
+train/epoch_146/loss 6.1023
+train/epoch_146/ex d d
+train/epoch_146/ex i d
+train/epoch_146/ex dj jc
+train/epoch_146/ex hhh hhh
+train/epoch_146/ex e e
+train/epoch_146{1.70s}
+train/epoch_147/loss 6.7364
+train/epoch_147/ex bbbbd gddgg
+train/epoch_147/ex aaaa aaaa
+train/epoch_147/ex ffff ffef
+train/epoch_147/ex ffffff fffffa
+train/epoch_147/ex cccccj jjjccj
+train/epoch_147{1.68s}
+train/epoch_148/loss 6.1966
+train/epoch_148/ex aaaaaaa aabaaab
+train/epoch_148/ex i d
+train/epoch_148/ex fffff fffff
+train/epoch_148/ex ddd ggg
+train/epoch_148/ex fff fff
+train/epoch_148{1.79s}
+train/epoch_149/loss 6.2020
+train/epoch_149/ex ddddd ddded
+train/epoch_149/ex b b
+train/epoch_149/ex ja jb
+train/epoch_149/ex hhhhhhhhhhh hhhhhhhhhhh
+train/epoch_149/ex ddd ggg
+train/epoch_149{1.71s}
+train/epoch_150/loss 5.8367
+train/epoch_150/ex hhhhhhhhhaaa bhbaffbhbabb
+train/epoch_150/ex h j
+train/epoch_150/ex bb gg
+train/epoch_150/ex e b
+train/epoch_150/ex jjjj jjjj
+train/epoch_150{1.64s}
+train/epoch_151/loss 6.0384
+train/epoch_151/ex aaa aaa
+train/epoch_151/ex ii ii
+train/epoch_151/ex e e
+train/epoch_151/ex ccc ccc
+train/epoch_151/ex ccdddd cddccc
+train/epoch_151{1.71s}
+train/epoch_152/loss 5.9184
+train/epoch_152/ex ccbb cbbc
+train/epoch_152/ex aaaaaaah ahhhhhah
+train/epoch_152/ex aaaaaa geeebe
+train/epoch_152/ex ee ee
+train/epoch_152/ex bf db
+train/epoch_152{1.69s}
+train/epoch_153/loss 5.9824
+train/epoch_153/ex ba ba
+train/epoch_153/ex ii id
+train/epoch_153/ex fffh diif
+train/epoch_153/ex cccccc cccccc
+train/epoch_153/ex di dh
+train/epoch_153{1.75s}
+train/epoch_154/loss 6.1138
+train/epoch_154/ex cc cc
+train/epoch_154/ex j h
+train/epoch_154/ex hhhhhhh jhjjjjj
+train/epoch_154/ex hhbb hbbb
+train/epoch_154/ex gg cc
+train/epoch_154{1.65s}
+train/epoch_155/loss 6.3677
+train/epoch_155/ex jj jj
+train/epoch_155/ex b b
+train/epoch_155/ex fj jc
+train/epoch_155/ex d f
+train/epoch_155/ex ggggg ggggg
+train/epoch_155{1.61s}
+train/epoch_156/loss 6.3078
+train/epoch_156/ex bbb fbb
+train/epoch_156/ex fffff hffff
+train/epoch_156/ex c j
+train/epoch_156/ex bcbc cbbc
+train/epoch_156/ex b c
+train/epoch_156{1.70s}
+train/epoch_157/loss 6.2118
+train/epoch_157/ex bbbb bbbb
+train/epoch_157/ex d d
+train/epoch_157/ex edede dbeec
+train/epoch_157/ex de de
+train/epoch_157/ex bbbbb jjbbb
+train/epoch_157{1.67s}
+train/epoch_158/loss 6.2537
+train/epoch_158/ex b g
+train/epoch_158/ex aaaag gdggg
+train/epoch_158/ex fffff fffff
+train/epoch_158/ex eeheeh heheae
+train/epoch_158/ex di db
+train/epoch_158{1.70s}
+train/epoch_159/loss 6.4654
+train/epoch_159/ex ggggh ghagg
+train/epoch_159/ex jjj jjj
+train/epoch_159/ex hhhhh hhhhh
+train/epoch_159/ex iiiiiiiiiii iiiiiiiiiii
+train/epoch_159/ex iiiii biiii
+train/epoch_159{1.69s}
+train/epoch_160/loss 5.6308
+train/epoch_160/ex ebe ebe
+train/epoch_160/ex jjj hhh
+train/epoch_160/ex aj af
+train/epoch_160/ex ggggg ggbbc
+train/epoch_160/ex gggggg eggegg
+train/epoch_160{1.70s}
+train/epoch_161/loss 5.9329
+train/epoch_161/ex iii iii
+train/epoch_161/ex j g
+train/epoch_161/ex jgjg gjjg
+train/epoch_161/ex ggggg ggggh
+train/epoch_161/ex ada iab
+train/epoch_161{1.66s}
+train/epoch_162/loss 6.1695
+train/epoch_162/ex dddj cddd
+train/epoch_162/ex fff fff
+train/epoch_162/ex jg hg
+train/epoch_162/ex e g
+train/epoch_162/ex iiiii giiii
+train/epoch_162{1.69s}
+train/epoch_163/loss 6.4028
+train/epoch_163/ex eeee eeeg
+train/epoch_163/ex eee bee
+train/epoch_163/ex i i
+train/epoch_163/ex c c
+train/epoch_163/ex hjhjhj jhhjhj
+train/epoch_163{1.70s}
+train/epoch_164/loss 6.2076
+train/epoch_164/ex hhhhhh hhhbbh
+train/epoch_164/ex aab abd
+train/epoch_164/ex ha ea
+train/epoch_164/ex bbbbbbbb bbbdbbbb
+train/epoch_164/ex ii jj
+train/epoch_164{1.69s}
+train/epoch_165/loss 6.0833
+train/epoch_165/ex aad daa
+train/epoch_165/ex ec ed
+train/epoch_165/ex ddddd ddddd
+train/epoch_165/ex ffffb fffbb
+train/epoch_165/ex aa fa
+train/epoch_165{1.70s}
+train/epoch_166/loss 6.0310
+train/epoch_166/ex i j
+train/epoch_166/ex aaaj jaaa
+train/epoch_166/ex iig igg
+train/epoch_166/ex ibi bdb
+train/epoch_166/ex hhhh hhhh
+train/epoch_166{1.68s}
+train/epoch_167/loss 5.9586
+train/epoch_167/ex eeeee eeeej
+train/epoch_167/ex aaaaaaaa aaaaaaba
+train/epoch_167/ex heheh hcehc
+train/epoch_167/ex jgjg jgff
+train/epoch_167/ex ddd dbb
+train/epoch_167{1.62s}
+train/epoch_168/loss 6.5112
+train/epoch_168/ex bjb bjb
+train/epoch_168/ex jh jf
+train/epoch_168/ex jj jj
+train/epoch_168/ex if ia
+train/epoch_168/ex bb bb
+train/epoch_168{1.70s}
+train/epoch_169/loss 5.9743
+train/epoch_169/ex j f
+train/epoch_169/ex ffbffbfb bfbffbfb
+train/epoch_169/ex e j
+train/epoch_169/ex bb bb
+train/epoch_169/ex cicccc cciici
+train/epoch_169{1.64s}
+train/epoch_170/loss 6.5227
+train/epoch_170/ex cc cc
+train/epoch_170/ex bj jb
+train/epoch_170/ex iiiii iiiid
+train/epoch_170/ex jjjj jjjj
+train/epoch_170/ex aaaa aaaa
+train/epoch_170{1.64s}
+train/epoch_171/loss 6.1279
+Epoch   171: reducing learning rate of group 0 to 3.1250e-05.
+train/epoch_171/ex fffffff dffffff
+train/epoch_171/ex ffcf cfff
+train/epoch_171/ex ff ff
+train/epoch_171/ex iiiii iiiii
+train/epoch_171/ex d a
+train/epoch_171{1.67s}
+train/epoch_172/loss 6.4508
+train/epoch_172/ex ddd ddd
+train/epoch_172/ex ddedde aeeded
+train/epoch_172/ex e i
+train/epoch_172/ex ddd ddd
+train/epoch_172/ex i a
+train/epoch_172{1.69s}
+train/epoch_173/loss 6.1593
+train/epoch_173/ex gggg gggg
+train/epoch_173/ex ejej jeej
+train/epoch_173/ex gf bf
+train/epoch_173/ex eeaea aaeaa
+train/epoch_173/ex ddc jdd
+train/epoch_173{1.64s}
+train/epoch_174/loss 6.0932
+train/epoch_174/ex hf fd
+train/epoch_174/ex jjjjj jjjjj
+train/epoch_174/ex ccffcffc fccffccf
+train/epoch_174/ex i i
+train/epoch_174/ex fffffffi ffiiiiif
+train/epoch_174{1.61s}
+train/epoch_175/loss 6.3809
+train/epoch_175/ex jh hj
+train/epoch_175/ex gd gd
+train/epoch_175/ex fj ce
+train/epoch_175/ex cb cf
+train/epoch_175/ex heeehe eeehhh
+train/epoch_175{1.70s}
+train/epoch_176/loss 6.4938
+train/epoch_176/ex ii ii
+train/epoch_176/ex hhh hdh
+train/epoch_176/ex iiiiiiiii iiiiiiiii
+train/epoch_176/ex bbb gbb
+train/epoch_176/ex gc gj
+train/epoch_176{1.64s}
+train/epoch_177/loss 5.6568
+train/epoch_177/ex dd dd
+train/epoch_177/ex iiiiic icccii
+train/epoch_177/ex hdhd dhdh
+train/epoch_177/ex iie iig
+train/epoch_177/ex jjjjjjd jjjjjdj
+train/epoch_177{1.69s}
+train/epoch_178/loss 6.3999
+train/epoch_178/ex ij ai
+train/epoch_178/ex gggg gggd
+train/epoch_178/ex j j
+train/epoch_178/ex ded ede
+train/epoch_178/ex ccccc ccccc
+train/epoch_178{1.70s}
+train/epoch_179/loss 5.7520
+train/epoch_179/ex dd dd
+train/epoch_179/ex ddd idd
+train/epoch_179/ex iii cii
+train/epoch_179/ex jjjjjj jjjjbb
+train/epoch_179/ex fffff ffffg
+train/epoch_179{1.78s}
+train/epoch_180/loss 6.0310
+train/epoch_180/ex eb be
+train/epoch_180/ex aah aah
+train/epoch_180/ex i i
+train/epoch_180/ex bc bc
+train/epoch_180/ex hhhh aaah
+train/epoch_180{1.71s}
+train/epoch_181/loss 6.3980
+train/epoch_181/ex jjjjjj hhhhhj
+train/epoch_181/ex aiifiiaa afaaafai
+train/epoch_181/ex gggggggggg fgfgghggfg
+train/epoch_181/ex dde cdd
+train/epoch_181/ex ffe eaa
+train/epoch_181{1.73s}
+train/epoch_182/loss 6.1611
+Epoch   182: reducing learning rate of group 0 to 1.5625e-05.
+train/epoch_182/ex ddd ddd
+train/epoch_182/ex ggggg ggggg
+train/epoch_182/ex d i
+train/epoch_182/ex aaaaaaa aaaaaaa
+train/epoch_182/ex bjbjbj jbjbjj
+train/epoch_182{1.63s}
+train/epoch_183/loss 5.8197
+train/epoch_183/ex ggggg ggggg
+train/epoch_183/ex di di
+train/epoch_183/ex i i
+train/epoch_183/ex fgf fgf
+train/epoch_183/ex dd dd
+train/epoch_183{1.62s}
+train/epoch_184/loss 5.7442
+train/epoch_184/ex i i
+train/epoch_184/ex hhh hhf
+train/epoch_184/ex e e
+train/epoch_184/ex bbbbb bbbgb
+train/epoch_184/ex aai aii
+train/epoch_184{1.67s}
+train/epoch_185/loss 5.9449
+train/epoch_185/ex fa ha
+train/epoch_185/ex jddj cdjj
+train/epoch_185/ex ccccccccc ccccccccc
+train/epoch_185/ex bbbb bbba
+train/epoch_185/ex idid fdid
+train/epoch_185{1.69s}
+train/epoch_186/loss 6.4132
+train/epoch_186/ex i i
+train/epoch_186/ex ffff ffff
+train/epoch_186/ex d a
+train/epoch_186/ex iiie geee
+train/epoch_186/ex hhhh hhhh
+train/epoch_186{1.64s}
+train/epoch_187/loss 6.2593
+train/epoch_187/ex fc cf
+train/epoch_187/ex ddddddd ddddddd
+train/epoch_187/ex eeeeeee eeeeeee
+train/epoch_187/ex hhhhhhh hhhhhee
+train/epoch_187/ex j j
+train/epoch_187{1.62s}
+train/epoch_188/loss 5.9596
+train/epoch_188/ex hhhh hhhh
+train/epoch_188/ex fff bff
+train/epoch_188/ex bbb bbb
+train/epoch_188/ex iiiiii ieiiii
+train/epoch_188/ex edded edeee
+train/epoch_188{1.65s}
+train/epoch_189/loss 5.5558
+train/epoch_189/ex fe fe
+train/epoch_189/ex ddf dda
+train/epoch_189/ex ddbd bdbd
+train/epoch_189/ex iid dii
+train/epoch_189/ex iii iii
+train/epoch_189{1.64s}
+train/epoch_190/loss 6.5355
+train/epoch_190/ex g g
+train/epoch_190/ex d d
+train/epoch_190/ex jjjjh cjjjc
+train/epoch_190/ex hhhhhh hhhhhh
+train/epoch_190/ex jg gj
+train/epoch_190{1.62s}
+train/epoch_191/loss 6.4038
+train/epoch_191/ex ggg ggg
+train/epoch_191/ex fjf fjf
+train/epoch_191/ex hhh hhh
+train/epoch_191/ex i i
+train/epoch_191/ex iii iii
+train/epoch_191{1.63s}
+train/epoch_192/loss 6.2900
+train/epoch_192/ex b b
+train/epoch_192/ex cgcg gcec
+train/epoch_192/ex aaaaa aaaaa
+train/epoch_192/ex jj jj
+train/epoch_192/ex dc dc
+train/epoch_192{1.66s}
+train/epoch_193/loss 6.0979
+train/epoch_193/ex d c
+train/epoch_193/ex aaa aaa
+train/epoch_193/ex bi ib
+train/epoch_193/ex ff fa
+train/epoch_193/ex cj cj
+train/epoch_193{1.64s}
+train/epoch_194/loss 5.9652
+train/epoch_194/ex i i
+train/epoch_194/ex ggg ggg
+train/epoch_194/ex fd fd
+train/epoch_194/ex ggggjj jjjjgj
+train/epoch_194/ex hhhhf hffhh
+train/epoch_194{1.65s}
+train/epoch_195/loss 5.6970
+train/epoch_195/ex jjdj djdd
+train/epoch_195/ex c h
+train/epoch_195/ex hhhhhhhh dbhbdbhd
+train/epoch_195/ex d b
+train/epoch_195/ex i i
+train/epoch_195{1.65s}
+train/epoch_196/loss 6.1554
+train/epoch_196/ex ggg jgg
+train/epoch_196/ex gg hh
+train/epoch_196/ex hhhh hhhh
+train/epoch_196/ex ddddddd hdddddd
+train/epoch_196/ex bgbggb ggbbbg
+train/epoch_196{1.72s}
+train/epoch_197/loss 5.6966
+train/epoch_197/ex e a
+train/epoch_197/ex d a
+train/epoch_197/ex e c
+train/epoch_197/ex gdg ggd
+train/epoch_197/ex bbc cbb
+train/epoch_197{1.75s}
+train/epoch_198/loss 6.3850
+train/epoch_198/ex ccic icci
+train/epoch_198/ex i h
+train/epoch_198/ex ici ijc
+train/epoch_198/ex bb bb
+train/epoch_198/ex jgjg gejj
+train/epoch_198{1.72s}
+train/epoch_199/loss 6.4086
+train/epoch_199/ex iiiii iiiii
+train/epoch_199/ex ddd ddd
+train/epoch_199/ex c g
+train/epoch_199/ex j f
+train/epoch_199/ex aaag gagg
+train/epoch_199{1.67s}
+train/epoch_200/loss 6.4065
+Epoch   200: reducing learning rate of group 0 to 7.8125e-06.
+train/epoch_200/ex ffbbffbf bfbbfbfb
+train/epoch_200/ex ggd dgd
+train/epoch_200/ex ccccc ccccc
+train/epoch_200/ex eeee eeee
+train/epoch_200/ex dd bb
+train/epoch_200{1.61s}
+train/epoch_201/loss 6.2569
+train/epoch_201/ex b h
+train/epoch_201/ex ddbb bdbb
+train/epoch_201/ex aaaaaaaa aaaaaaaa
+train/epoch_201/ex jjj jji
+train/epoch_201/ex jaj ejj
+train/epoch_201{1.65s}
+train/epoch_202/loss 5.9009
+train/epoch_202/ex aaaaai aaaiai
+train/epoch_202/ex ggggg hgggg
+train/epoch_202/ex jd bj
+train/epoch_202/ex bb bb
+train/epoch_202/ex ei ej
+train/epoch_202{1.69s}
+train/epoch_203/loss 5.9967
+train/epoch_203/ex ggggf fggfh
+train/epoch_203/ex bj bg
+train/epoch_203/ex ababab baccab
+train/epoch_203/ex aaaaa ajeae
+train/epoch_203/ex deded dedde
+train/epoch_203{1.71s}
+train/epoch_204/loss 5.9941
+train/epoch_204/ex ccee eecc
+train/epoch_204/ex gjjg jggj
+train/epoch_204/ex ccccccccc ccccccccc
+train/epoch_204/ex bbaaa bbabb
+train/epoch_204/ex d d
+train/epoch_204{1.66s}
+train/epoch_205/loss 6.2342
+train/epoch_205/ex e i
+train/epoch_205/ex ggg ggg
+train/epoch_205/ex ee dd
+train/epoch_205/ex d g
+train/epoch_205/ex j j
+train/epoch_205{1.76s}
+train/epoch_206/loss 5.9397
+train/epoch_206/ex iiiiii iiiiii
+train/epoch_206/ex gd db
+train/epoch_206/ex c d
+train/epoch_206/ex e i
+train/epoch_206/ex dddf fffd
+train/epoch_206{1.71s}
+train/epoch_207/loss 5.6915
+train/epoch_207/ex agag ggag
+train/epoch_207/ex fff fff
+train/epoch_207/ex ccc ccc
+train/epoch_207/ex b d
+train/epoch_207/ex iiiiiiiiii iiiiiiiiii
+train/epoch_207{1.68s}
+train/epoch_208/loss 6.0428
+train/epoch_208/ex jf fj
+train/epoch_208/ex c c
+train/epoch_208/ex jjjjj jjjjj
+train/epoch_208/ex eb de
+train/epoch_208/ex iiiai iaiii
+train/epoch_208{1.64s}
+train/epoch_209/loss 5.8970
+train/epoch_209/ex ii bb
+train/epoch_209/ex jf ci
+train/epoch_209/ex hi id
+train/epoch_209/ex hhhff hfhhf
+train/epoch_209/ex c d
+train/epoch_209{1.67s}
+train/epoch_210/loss 5.9637
+train/epoch_210/ex eeeeeed dbbedeb
+train/epoch_210/ex iii iii
+train/epoch_210/ex ccccccccg ccggggccg
+train/epoch_210/ex jjjjj jjjjj
+train/epoch_210/ex dd ff
+train/epoch_210{1.71s}
+train/epoch_211/loss 6.3755
+Epoch   211: reducing learning rate of group 0 to 3.9063e-06.
+train/epoch_211/ex a e
+train/epoch_211/ex iiiii iiiii
+train/epoch_211/ex d d
+train/epoch_211/ex bgbgbg bbgbge
+train/epoch_211/ex i i
+train/epoch_211{1.69s}
+train/epoch_212/loss 6.2919
+train/epoch_212/ex aaa haa
+train/epoch_212/ex c i
+train/epoch_212/ex gg gg
+train/epoch_212/ex i i
+train/epoch_212/ex aaaaa aaeaa
+train/epoch_212{1.57s}
+train/epoch_213/loss 5.9976
+train/epoch_213/ex i f
+train/epoch_213/ex hhhhh hhhhh
+train/epoch_213/ex bbi bbi
+train/epoch_213/ex eeee eaaa
+train/epoch_213/ex cc cc
+train/epoch_213{1.65s}
+train/epoch_214/loss 6.1092
+train/epoch_214/ex i i
+train/epoch_214/ex ga jg
+train/epoch_214/ex i f
+train/epoch_214/ex e a
+train/epoch_214/ex hhhhhh hhiihh
+train/epoch_214{1.66s}
+train/epoch_215/loss 6.0899
+train/epoch_215/ex ddd ddd
+train/epoch_215/ex b d
+train/epoch_215/ex hhhhh hhhhh
+train/epoch_215/ex ggggg egggg
+train/epoch_215/ex cjcjcj acfjjf
+train/epoch_215{1.64s}
+train/epoch_216/loss 5.9925
+train/epoch_216/ex ddd ddd
+train/epoch_216/ex ffffhf hhfhhf
+train/epoch_216/ex ia ia
+train/epoch_216/ex da db
+train/epoch_216/ex hhh jjj
+train/epoch_216{1.71s}
+train/epoch_217/loss 6.0272
+train/epoch_217/ex fifi fifi
+train/epoch_217/ex ge ge
+train/epoch_217/ex iib jbb
+train/epoch_217/ex jd if
+train/epoch_217/ex acacac caccca
+train/epoch_217{1.73s}
+train/epoch_218/loss 5.8920
+train/epoch_218/ex ififi ififi
+train/epoch_218/ex c j
+train/epoch_218/ex gg gg
+train/epoch_218/ex bbbbb bbbbb
+train/epoch_218/ex j j
+train/epoch_218{1.71s}
+train/epoch_219/loss 5.9707
+train/epoch_219/ex ff jj
+train/epoch_219/ex dbdb dbdd
+train/epoch_219/ex ccjjjc eeejcj
+train/epoch_219/ex i i
+train/epoch_219/ex eeeee eeeee
+train/epoch_219{1.61s}
+train/epoch_220/loss 5.8610
+train/epoch_220/ex j j
+train/epoch_220/ex cj cj
+train/epoch_220/ex ffj jjf
+train/epoch_220/ex ggee ggeg
+train/epoch_220/ex ji ji
+train/epoch_220{1.71s}
+train/epoch_221/loss 6.1566
+train/epoch_221/ex ef fe
+train/epoch_221/ex ie bi
+train/epoch_221/ex df fd
+train/epoch_221/ex b d
+train/epoch_221/ex i j
+train/epoch_221{1.69s}
+train/epoch_222/loss 6.2244
+Epoch   222: reducing learning rate of group 0 to 1.9531e-06.
+train/epoch_222/ex gggggg iggggg
+train/epoch_222/ex gggge geegg
+train/epoch_222/ex eee cee
+train/epoch_222/ex cjcj cjce
+train/epoch_222/ex eebeebe ebbbebe
+train/epoch_222{1.61s}
+train/epoch_223/loss 6.3746
+train/epoch_223/ex eec cee
+train/epoch_223/ex eee eee
+train/epoch_223/ex dda aaj
+train/epoch_223/ex i d
+train/epoch_223/ex gfg jfg
+train/epoch_223{1.67s}
+train/epoch_224/loss 5.9124
+train/epoch_224/ex e h
+train/epoch_224/ex eee eee
+train/epoch_224/ex bbc bhb
+train/epoch_224/ex dddd addd
+train/epoch_224/ex hfhf fhhf
+train/epoch_224{1.65s}
+train/epoch_225/loss 6.3971
+train/epoch_225/ex gjgj agaj
+train/epoch_225/ex hhh ddd
+train/epoch_225/ex fig gfi
+train/epoch_225/ex i e
+train/epoch_225/ex d d
+train/epoch_225{1.64s}
+train/epoch_226/loss 6.4814
+train/epoch_226/ex iiii iiii
+train/epoch_226/ex e j
+train/epoch_226/ex fifi hifi
+train/epoch_226/ex ah eh
+train/epoch_226/ex ffcfc chchc
+train/epoch_226{1.63s}
+train/epoch_227/loss 6.2232
+train/epoch_227/ex fjbj fbjh
+train/epoch_227/ex aaaaa aaaaa
+train/epoch_227/ex gjj gee
+train/epoch_227/ex i i
+train/epoch_227/ex iiiiiiiiiii iiiiiiiiiii
+train/epoch_227{1.67s}
+train/epoch_228/loss 6.3387
+train/epoch_228/ex dddd dddd
+train/epoch_228/ex cccc cccc
+train/epoch_228/ex dddd ahhh
+train/epoch_228/ex jgjg jgja
+train/epoch_228/ex bab aba
+train/epoch_228{1.69s}
+train/epoch_229/loss 5.9282
+train/epoch_229/ex iii iii
+train/epoch_229/ex e e
+train/epoch_229/ex ccc cch
+train/epoch_229/ex iieei eeiee
+train/epoch_229/ex ccccc ccccc
+train/epoch_229{1.67s}
+train/epoch_230/loss 6.0003
+train/epoch_230/ex jf cj
+train/epoch_230/ex bb dd
+train/epoch_230/ex ggg ggc
+train/epoch_230/ex aaaaa aaaad
+train/epoch_230/ex c h
+train/epoch_230{1.62s}
+train/epoch_231/loss 6.3400
+train/epoch_231/ex hfh fhe
+train/epoch_231/ex iiiiiii iiiiiii
+train/epoch_231/ex cci hcc
+train/epoch_231/ex iii iii
+train/epoch_231/ex ggg ggg
+train/epoch_231{1.65s}
+train/epoch_232/loss 6.1031
+train/epoch_232/ex iii iii
+train/epoch_232/ex ggggg ggggg
+train/epoch_232/ex i i
+train/epoch_232/ex bffb bbfb
+train/epoch_232/ex dddd hddd
+train/epoch_232{1.61s}
+train/epoch_233/loss 5.8287
+Epoch   233: reducing learning rate of group 0 to 9.7656e-07.
+train/epoch_233/ex ia ai
+train/epoch_233/ex ddddg dddfd
+train/epoch_233/ex jjjd djdj
+train/epoch_233/ex ai bi
+train/epoch_233/ex hh jh
+train/epoch_233{1.71s}
+train/epoch_234/loss 6.2340
+train/epoch_234/ex b b
+train/epoch_234/ex iiii iiii
+train/epoch_234/ex dii idd
+train/epoch_234/ex cccc cccc
+train/epoch_234/ex hhhhh hhhhh
+train/epoch_234{1.73s}
+train/epoch_235/loss 6.3833
+train/epoch_235/ex ddd hhh
+train/epoch_235/ex ddd idd
+train/epoch_235/ex gggg fffg
+train/epoch_235/ex i b
+train/epoch_235/ex dddd dddd
+train/epoch_235{1.68s}
+train/epoch_236/loss 6.1122
+train/epoch_236/ex ddee dded
+train/epoch_236/ex dd dd
+train/epoch_236/ex jg ic
+train/epoch_236/ex fff hff
+train/epoch_236/ex jjjj jjjj
+train/epoch_236{1.66s}
+train/epoch_237/loss 6.5434
+train/epoch_237/ex ig ji
+train/epoch_237/ex cb gc
+train/epoch_237/ex fe ef
+train/epoch_237/ex fjjf ghgg
+train/epoch_237/ex eeee eeee
+train/epoch_237{1.71s}
+train/epoch_238/loss 6.2925
+train/epoch_238/ex eee eee
+train/epoch_238/ex e f
+train/epoch_238/ex ffee feee
+train/epoch_238/ex i j
+train/epoch_238/ex fgf ggf
+train/epoch_238{1.68s}
+train/epoch_239/loss 6.2384
+train/epoch_239/ex j j
+train/epoch_239/ex ii ii
+train/epoch_239/ex bbbbb bbbbb
+train/epoch_239/ex aaf faa
+train/epoch_239/ex eeeeeeee eaeeeeee
+train/epoch_239{1.74s}
+train/epoch_240/loss 6.4463
+train/epoch_240/ex i h
+train/epoch_240/ex ecce eece
+train/epoch_240/ex iei fie
+train/epoch_240/ex fjjjjff fjfjfjj
+train/epoch_240/ex jbj jdb
+train/epoch_240{1.71s}
+train/epoch_241/loss 6.2361
+train/epoch_241/ex aaa ggg
+train/epoch_241/ex dfddf dfddf
+train/epoch_241/ex bb bb
+train/epoch_241/ex bj eb
+train/epoch_241/ex iii iii
+train/epoch_241{1.63s}
+train/epoch_242/loss 6.2986
+train/epoch_242/ex bb bb
+train/epoch_242/ex jjjj ijjj
+train/epoch_242/ex ccccc ccccc
+train/epoch_242/ex jhj jhc
+train/epoch_242/ex jjjj jjjj
+train/epoch_242{1.68s}
+train/epoch_243/loss 5.7629
+train/epoch_243/ex ee ff
+train/epoch_243/ex iiiid idiii
+train/epoch_243/ex hi hf
+train/epoch_243/ex cccc hccc
+train/epoch_243/ex hhhhhhh hhhhhhh
+train/epoch_243{1.73s}
+train/epoch_244/loss 5.8432
+Epoch   244: reducing learning rate of group 0 to 4.8828e-07.
+train/epoch_244/ex aaaaaaa aaaaaaa
+train/epoch_244/ex ae ea
+train/epoch_244/ex bbbbb bbbbb
+train/epoch_244/ex fgg ggi
+train/epoch_244/ex bbbb bbbd
+train/epoch_244{1.66s}
+train/epoch_245/loss 5.7299
+train/epoch_245/ex cacaa jgagg
+train/epoch_245/ex cjc cfj
+train/epoch_245/ex bj gb
+train/epoch_245/ex iie iib
+train/epoch_245/ex hhj hjj
+train/epoch_245{1.69s}
+train/epoch_246/loss 6.3262
+train/epoch_246/ex cccc cccc
+train/epoch_246/ex bbbbj jbbbg
+train/epoch_246/ex jb fj
+train/epoch_246/ex c d
+train/epoch_246/ex d b
+train/epoch_246{1.68s}
+train/epoch_247/loss 5.9745
+train/epoch_247/ex djd jdj
+train/epoch_247/ex hhhh ihhh
+train/epoch_247/ex ggggg ggggg
+train/epoch_247/ex iii iii
+train/epoch_247/ex fd jf
+train/epoch_247{1.69s}
+train/epoch_248/loss 5.5535
+train/epoch_248/ex fff fff
+train/epoch_248/ex ff ff
+train/epoch_248/ex bbg bbg
+train/epoch_248/ex jjf eje
+train/epoch_248/ex ccc ecc
+train/epoch_248{1.71s}
+train/epoch_249/loss 6.6518
+train/epoch_249/ex j b
+train/epoch_249/ex d d
+train/epoch_249/ex ggg igg
+train/epoch_249/ex eeee eeee
+train/epoch_249/ex jjjj jjjg
+train/epoch_249{1.60s}
+train/epoch_250/loss 5.9304
+train/epoch_250/ex e h
+train/epoch_250/ex ihihihih iiihhhhi
+train/epoch_250/ex jjjjjjj ejjjjjj
+train/epoch_250/ex cc hc
+train/epoch_250/ex iiiii iiiii
+train/epoch_250{1.70s}
+train/epoch_251/loss 5.8658
+train/epoch_251/ex aaaaa aaaaa
+train/epoch_251/ex aaa aaa
+train/epoch_251/ex ah ja
+train/epoch_251/ex bbbbb bbbbb
+train/epoch_251/ex adf dfa
+train/epoch_251{1.65s}
+train/epoch_252/loss 5.8809
+train/epoch_252/ex ig cg
+train/epoch_252/ex ac ce
+train/epoch_252/ex e a
+train/epoch_252/ex ggggg hgggg
+train/epoch_252/ex hbh hhg
+train/epoch_252{1.61s}
+train/epoch_253/loss 6.3673
+train/epoch_253/ex ccccc cccch
+train/epoch_253/ex ei ed
+train/epoch_253/ex i i
+train/epoch_253/ex jjjj jjjj
+train/epoch_253/ex bb bb
+train/epoch_253{1.74s}
+train/epoch_254/loss 5.7348
+train/epoch_254/ex hhhhhhhf ffhfhhff
+train/epoch_254/ex gggg gggg
+train/epoch_254/ex ccc ccc
+train/epoch_254/ex fffffff fffffff
+train/epoch_254/ex j a
+train/epoch_254{1.69s}
+train/epoch_255/loss 5.7685
+train/epoch_255/ex j a
+train/epoch_255/ex hfhf hhfh
+train/epoch_255/ex ddd ddd
+train/epoch_255/ex dfddfd dfdgfd
+train/epoch_255/ex ccece eecec
+train/epoch_255{1.64s}
+train/epoch_256/loss 5.9912
+train/epoch_256/ex iiiic iicii
+train/epoch_256/ex cc cc
+train/epoch_256/ex h f
+train/epoch_256/ex ce ce
+train/epoch_256/ex gd hg
+train/epoch_256{1.67s}
+train/epoch_257/loss 5.9945
+train/epoch_257/ex ie ja
+train/epoch_257/ex gd hc
+train/epoch_257/ex cccc cccc
+train/epoch_257/ex bb bb
+train/epoch_257/ex ggggg ggggg
+train/epoch_257{1.69s}
+train/epoch_258/loss 6.1971
+train/epoch_258/ex gg gg
+train/epoch_258/ex b d
+train/epoch_258/ex ddddddddd ddddddddd
+train/epoch_258/ex jjjjjj jjjjjj
+train/epoch_258/ex hh hi
+train/epoch_258{1.65s}
+train/epoch_259/loss 5.8641
+Epoch   259: reducing learning rate of group 0 to 2.4414e-07.
+train/epoch_259/ex ddd ddd
+train/epoch_259/ex iiiiii iiiiid
+train/epoch_259/ex fffff fffff
+train/epoch_259/ex bb gg
+train/epoch_259/ex gg gg
+train/epoch_259{1.70s}
+train/epoch_260/loss 5.9756
+train/epoch_260/ex hhhhhhhhhh hhhhhhhhhh
+train/epoch_260/ex c c
+train/epoch_260/ex fff fff
+train/epoch_260/ex ccc ggg
+train/epoch_260/ex bbbbbbb bbbbbbb
+train/epoch_260{1.71s}
+train/epoch_261/loss 6.1036
+train/epoch_261/ex i d
+train/epoch_261/ex fffff fffff
+train/epoch_261/ex b b
+train/epoch_261/ex fj bf
+train/epoch_261/ex ggg ggg
+train/epoch_261{1.67s}
+train/epoch_262/loss 6.1952
+train/epoch_262/ex fc gc
+train/epoch_262/ex i i
+train/epoch_262/ex iiiee iihee
+train/epoch_262/ex eeeee eeeee
+train/epoch_262/ex ifi ibf
+train/epoch_262{1.65s}
+train/epoch_263/loss 6.0037
+train/epoch_263/ex da dh
+train/epoch_263/ex j i
+train/epoch_263/ex gg gg
+train/epoch_263/ex jcj cjc
+train/epoch_263/ex cdcdddc ccdcccd
+train/epoch_263{1.74s}
+train/epoch_264/loss 6.1218
+train/epoch_264/ex ffifi eiiif
+train/epoch_264/ex aaaaa aaaah
+train/epoch_264/ex fb ef
+train/epoch_264/ex d e
+train/epoch_264/ex e h
+train/epoch_264{1.68s}
+train/epoch_265/loss 6.0748
+train/epoch_265/ex ddf ffh
+train/epoch_265/ex jjjjjj jjjjjj
+train/epoch_265/ex hhh hhh
+train/epoch_265/ex jgjg jgjj
+train/epoch_265/ex i c
+train/epoch_265{1.65s}
+train/epoch_266/loss 6.2830
+train/epoch_266/ex jjjjj jhhhh
+train/epoch_266/ex ccccc cccca
+train/epoch_266/ex ddb ddb
+train/epoch_266/ex hh hh
+train/epoch_266/ex iiie iiig
+train/epoch_266{1.67s}
+train/epoch_267/loss 6.0740
+train/epoch_267/ex aj ca
+train/epoch_267/ex ce gc
+train/epoch_267/ex daad adda
+train/epoch_267/ex bd dh
+train/epoch_267/ex hhhhhh hhhhgh
+train/epoch_267{1.61s}
+train/epoch_268/loss 6.2476
+train/epoch_268/ex j g
+train/epoch_268/ex fd di
+train/epoch_268/ex bbc bbh
+train/epoch_268/ex cccjj dddjd
+train/epoch_268/ex cgc cgc
+train/epoch_268{1.72s}
+train/epoch_269/loss 6.2418
+train/epoch_269/ex ccccc ccccc
+train/epoch_269/ex gggg jggj
+train/epoch_269/ex dc dg
+train/epoch_269/ex ieeie ieeii
+train/epoch_269/ex ccccccc ccccccc
+train/epoch_269{1.72s}
+train/epoch_270/loss 6.2247
+Epoch   270: reducing learning rate of group 0 to 1.2207e-07.
+train/epoch_270/ex ddd ddd
+train/epoch_270/ex hhhhh hhehh
+train/epoch_270/ex ggg ggg
+train/epoch_270/ex fff fff
+train/epoch_270/ex aeea eaea
+train/epoch_270{1.68s}
+train/epoch_271/loss 6.1829
+train/epoch_271/ex i i
+train/epoch_271/ex hhhhhhhh hhhhjhhh
+train/epoch_271/ex faga faeg
+train/epoch_271/ex ddd fff
+train/epoch_271/ex ccccc ccccc
+train/epoch_271{1.68s}
+train/epoch_272/loss 6.0693
+train/epoch_272/ex d d
+train/epoch_272/ex eed ede
+train/epoch_272/ex i b
+train/epoch_272/ex fjjf ijaa
+train/epoch_272/ex ddd ddd
+train/epoch_272{1.71s}
+train/epoch_273/loss 5.9479
+train/epoch_273/ex hhh dhh
+train/epoch_273/ex jjjjjjjj jjjjjjjj
+train/epoch_273/ex ddddddd ddddddd
+train/epoch_273/ex i d
+train/epoch_273/ex bbbb bbbb
+train/epoch_273{1.71s}
+train/epoch_274/loss 6.2712
+train/epoch_274/ex hhh hhh
+train/epoch_274/ex je he
+train/epoch_274/ex c d
+train/epoch_274/ex b b
+train/epoch_274/ex cccc ccca
+train/epoch_274{1.65s}
+train/epoch_275/loss 6.1563
+train/epoch_275/ex d f
+train/epoch_275/ex bbbbb ebbbb
+train/epoch_275/ex aaaa aaaa
+train/epoch_275/ex iic icc
+train/epoch_275/ex caa ajj
+train/epoch_275{1.69s}
+train/epoch_276/loss 5.8761
+train/epoch_276/ex c c
+train/epoch_276/ex bbbbg bbccg
+train/epoch_276/ex cj ce
+train/epoch_276/ex aaaaaaa aaaaaaa
+train/epoch_276/ex c c
+train/epoch_276{1.67s}
+train/epoch_277/loss 6.2020
+train/epoch_277/ex bbbbbb bbdbbb
+train/epoch_277/ex ff ff
+train/epoch_277/ex ga fg
+train/epoch_277/ex ddd ddd
+train/epoch_277/ex ii gg
+train/epoch_277{1.67s}
+train/epoch_278/loss 6.3273
+train/epoch_278/ex bbbb jbbb
+train/epoch_278/ex agg gaa
+train/epoch_278/ex i i
+train/epoch_278/ex edde dedd
+train/epoch_278/ex aaaagga igggiaa
+train/epoch_278{1.65s}
+train/epoch_279/loss 6.0416
+train/epoch_279/ex gh gf
+train/epoch_279/ex hhh hhh
+train/epoch_279/ex cf fc
+train/epoch_279/ex ccccccc cccccch
+train/epoch_279/ex hhhhh hhhhh
+train/epoch_279{1.72s}
+train/epoch_280/loss 6.1316
+train/epoch_280/ex jcjf hcjc
+train/epoch_280/ex ddd aff
+train/epoch_280/ex ddde eddd
+train/epoch_280/ex aha hah
+train/epoch_280/ex ddd bii
+train/epoch_280{1.63s}
+train/epoch_281/loss 6.4975
+Epoch   281: reducing learning rate of group 0 to 6.1035e-08.
+train/epoch_281/ex hhhhh hhhhd
+train/epoch_281/ex ddddd ddddd
+train/epoch_281/ex ffff jfff
+train/epoch_281/ex i b
+train/epoch_281/ex ddd ddd
+train/epoch_281{1.68s}
+train/epoch_282/loss 5.9295
+train/epoch_282/ex b d
+train/epoch_282/ex eeeeeee eeeeeee
+train/epoch_282/ex iii iii
+train/epoch_282/ex ccaca acacc
+train/epoch_282/ex ceb ece
+train/epoch_282{1.61s}
+train/epoch_283/loss 6.3771
+train/epoch_283/ex ddddd ddddd
+train/epoch_283/ex bbbbbb bbbabb
+train/epoch_283/ex ffff ffff
+train/epoch_283/ex iii dii
+train/epoch_283/ex jg gj
+train/epoch_283{1.59s}
+train/epoch_284/loss 6.2439
+train/epoch_284/ex bbb aaa
+train/epoch_284/ex jjjj jjjj
+train/epoch_284/ex ffbbf fbfbb
+train/epoch_284/ex aaaaa caaaa
+train/epoch_284/ex dd cc
+train/epoch_284{1.68s}
+train/epoch_285/loss 5.8718
+train/epoch_285/ex hhh hhh
+train/epoch_285/ex ggggg ggggg
+train/epoch_285/ex cccccccc caaaaccc
+train/epoch_285/ex e i
+train/epoch_285/ex aaa aad
+train/epoch_285{1.65s}
+train/epoch_286/loss 5.9488
+train/epoch_286/ex aiai aiia
+train/epoch_286/ex cccc ccce
+train/epoch_286/ex iii iii
+train/epoch_286/ex eeeee eeeee
+train/epoch_286/ex fff fff
+train/epoch_286{1.69s}
+train/epoch_287/loss 6.1329
+train/epoch_287/ex cccc cccc
+train/epoch_287/ex fd df
+train/epoch_287/ex hi df
+train/epoch_287/ex dbdb bgbg
+train/epoch_287/ex hhh hbb
+train/epoch_287{1.66s}
+train/epoch_288/loss 6.3430
+train/epoch_288/ex jjjj jjjj
+train/epoch_288/ex ffffffffffb bdfbfdffbdf
+train/epoch_288/ex aaaaa daaaa
+train/epoch_288/ex jjj jjj
+train/epoch_288/ex aaa aaa
+train/epoch_288{1.82s}
+train/epoch_289/loss 5.8025
+train/epoch_289/ex eeje bgee
+train/epoch_289/ex cdcddd cdaccc
+train/epoch_289/ex dhd did
+train/epoch_289/ex ccccc ccccc
+train/epoch_289/ex dd dd
+train/epoch_289{1.75s}
+train/epoch_290/loss 6.1609
+train/epoch_290/ex ccccf fcccj
+train/epoch_290/ex jjjj jjjj
+train/epoch_290/ex i c
+train/epoch_290/ex eee eee
+train/epoch_290/ex fj jf
+train/epoch_290{1.65s}
+train/epoch_291/loss 6.2130
+train/epoch_291/ex ggg ggg
+train/epoch_291/ex iic icc
+train/epoch_291/ex ac ca
+train/epoch_291/ex eb eb
+train/epoch_291/ex bbb bbb
+train/epoch_291{1.67s}
+train/epoch_292/loss 5.7293
+Epoch   292: reducing learning rate of group 0 to 3.0518e-08.
+train/epoch_292/ex bbbbi bbiii
+train/epoch_292/ex ahhah haaha
+train/epoch_292/ex aa aa
+train/epoch_292/ex ii ii
+train/epoch_292/ex jjjjjjj jjjjjjj
+train/epoch_292{1.66s}
+train/epoch_293/loss 6.1803
+train/epoch_293/ex iiiiiij ibbbibb
+train/epoch_293/ex jjjjj jjjjj
+train/epoch_293/ex ggggd gdhgg
+train/epoch_293/ex ggggg ggggg
+train/epoch_293/ex iiiii eiiii
+train/epoch_293{1.65s}
+train/epoch_294/loss 6.4848
+train/epoch_294/ex ccc hcc
+train/epoch_294/ex aeeae ieaea
+train/epoch_294/ex ggggjj jhhhjh
+train/epoch_294/ex jjfjf jfjfj
+train/epoch_294/ex ha ab
+train/epoch_294{1.72s}
+train/epoch_295/loss 5.9765
+train/epoch_295/ex jjj iii
+train/epoch_295/ex ggggg gdddd
+train/epoch_295/ex hhh hhh
+train/epoch_295/ex eee eee
+train/epoch_295/ex eeeeeee eeeeeee
+train/epoch_295{1.68s}
+train/epoch_296/loss 6.0851
+train/epoch_296/ex jjj jjj
+train/epoch_296/ex ffe fef
+train/epoch_296/ex cg ac
+train/epoch_296/ex ajjaj aajaj
+train/epoch_296/ex eejj deee
+train/epoch_296{1.61s}
+train/epoch_297/loss 5.8814
+train/epoch_297/ex gigigi giggig
+train/epoch_297/ex cc dc
+train/epoch_297/ex d b
+train/epoch_297/ex hhhhhhh hhhhhhh
+train/epoch_297/ex cccccb bcbccc
+train/epoch_297{1.70s}
+train/epoch_298/loss 5.8316
+train/epoch_298/ex jh jh
+train/epoch_298/ex fffff fffff
+train/epoch_298/ex aj jf
+train/epoch_298/ex eb ec
+train/epoch_298/ex hhhhhhhj hhjjhhhh
+train/epoch_298{1.75s}
+train/epoch_299/loss 6.0841
+train/epoch_299/ex c c
+train/epoch_299/ex cc cc
+train/epoch_299/ex ee ee
+train/epoch_299/ex fi ic
+train/epoch_299/ex aaaa aaaa
+train/epoch_299{1.68s}
+train/epoch_300/loss 6.0746
+train/epoch_300/ex ieie eaei
+train/epoch_300/ex aajj aajj
+train/epoch_300/ex jjjjjj jjhjjj
+train/epoch_300/ex gjg jgj
+train/epoch_300/ex gd gh
+train/epoch_300{1.71s}
+train/epoch_301/loss 6.4497
+train/epoch_301/ex bbbdb gbbdd
+train/epoch_301/ex gggj jjgg
+train/epoch_301/ex bj jb
+train/epoch_301/ex iijjjij jjiiiij
+train/epoch_301/ex ffffe fffef
+train/epoch_301{1.72s}
+train/epoch_302/loss 5.9866
+train/epoch_302/ex jjj jjj
+train/epoch_302/ex ig ei
+train/epoch_302/ex fff dff
+train/epoch_302/ex jdjdj jjadj
+train/epoch_302/ex hb fh
+train/epoch_302{1.67s}
+train/epoch_303/loss 6.1320
+Epoch   303: reducing learning rate of group 0 to 1.5259e-08.
+train/epoch_303/ex ifi jif
+train/epoch_303/ex iii iii
+train/epoch_303/ex ffff fffc
+train/epoch_303/ex aa bb
+train/epoch_303/ex ccccc ccccc
+train/epoch_303{1.70s}
+train/epoch_304/loss 6.0997
+train/epoch_304/ex jjjjjj ijjjjb
+train/epoch_304/ex ffff ffaf
+train/epoch_304/ex hhhh hhhh
+train/epoch_304/ex db di
+train/epoch_304/ex ddd ddd
+train/epoch_304{1.66s}
+train/epoch_305/loss 6.4011
+train/epoch_305/ex hddh hhdh
+train/epoch_305/ex ggg agg
+train/epoch_305/ex iiii iiii
+train/epoch_305/ex i d
+train/epoch_305/ex hhhhhhhhhh hhhhhhhhhh
+train/epoch_305{1.67s}
+train/epoch_306/loss 6.2998
+train/epoch_306/ex iii iii
+train/epoch_306/ex bbbbbb gbgbbb
+train/epoch_306/ex gf dg
+train/epoch_306/ex hffcffcfcfc chefcfchhhf
+train/epoch_306/ex hhhhhhhhhh hhhhhhhhhh
+train/epoch_306{1.62s}
+train/epoch_307/loss 6.2166
+train/epoch_307/ex d b
+train/epoch_307/ex hhhhh hhhhh
+train/epoch_307/ex bgg ggc
+train/epoch_307/ex iii iii
+train/epoch_307/ex bbh abb
+train/epoch_307{1.65s}
+train/epoch_308/loss 6.2850
+train/epoch_308/ex ggggg ggggg
+train/epoch_308/ex d i
+train/epoch_308/ex aaaa afaa
+train/epoch_308/ex jhj cjh
+train/epoch_308/ex ici cic
+train/epoch_308{1.68s}
+train/epoch_309/loss 6.7888
+train/epoch_309/ex jjjjj jjjjg
+train/epoch_309/ex jjj jjb
+train/epoch_309/ex ffffff afffff
+train/epoch_309/ex aaaaaaa aacaaaa
+train/epoch_309/ex cgcg ehcc
+train/epoch_309{1.64s}
+train/epoch_310/loss 6.4260
+train/epoch_310/ex hhh hdd
+train/epoch_310/ex ggggg iiiii
+train/epoch_310/ex eeee eeee
+train/epoch_310/ex aaaaaj jajjjj
+train/epoch_310/ex cda acj
+train/epoch_310{1.60s}
+train/epoch_311/loss 6.2633
+train/epoch_311/ex aaaaa aaaaa
+train/epoch_311/ex jd ej
+train/epoch_311/ex i f
+train/epoch_311/ex di gd
+train/epoch_311/ex ib ib
+train/epoch_311{1.67s}
+train/epoch_312/loss 6.2548
+train/epoch_312/ex jjj jjj
+train/epoch_312/ex ggg aaa
+train/epoch_312/ex ieeie ieiii
+train/epoch_312/ex ii hh
+train/epoch_312/ex cgf cgc
+train/epoch_312{1.68s}
+train/epoch_313/loss 6.0804
+train/epoch_313/ex aaaaa aaaaa
+train/epoch_313/ex dg dc
+train/epoch_313/ex jjjjjjj gggjggj
+train/epoch_313/ex hhhhhh bhhhhh
+train/epoch_313/ex jjjjjbb jbbjjjj
+train/epoch_313{1.68s}
+train/epoch_314/loss 6.0775
+train/epoch_314/ex aaaagg gaagaa
+train/epoch_314/ex dd dd
+train/epoch_314/ex fgf cgg
+train/epoch_314/ex iiiiiiiia baaaiaabb
+train/epoch_314/ex cccccc cccdcc
+train/epoch_314{1.69s}
+train/epoch_315/loss 6.0600
+train/epoch_315/ex iiiiiii iiiiiii
+train/epoch_315/ex cc cc
+train/epoch_315/ex d d
+train/epoch_315/ex ccccc ccccc
+train/epoch_315/ex cb bc
+train/epoch_315{1.69s}
+train/epoch_316/loss 6.1829
+train/epoch_316/ex b h
+train/epoch_316/ex ffff feee
+train/epoch_316/ex ggg ggg
+train/epoch_316/ex bbbbb jbbbb
+train/epoch_316/ex ddeed ejdjj
+train/epoch_316{1.63s}
+train/epoch_317/loss 6.3273
+train/epoch_317/ex hhhhh hhhhh
+train/epoch_317/ex hhhh hhhh
+train/epoch_317/ex aaj jaa
+train/epoch_317/ex hhbbhbb hhhbhhb
+train/epoch_317/ex bbbbbb bbbbgb
+train/epoch_317{1.69s}
+train/epoch_318/loss 6.1831
+train/epoch_318/ex ddd ddd
+train/epoch_318/ex bbbb bbbb
+train/epoch_318/ex ggg ggg
+train/epoch_318/ex ch dc
+train/epoch_318/ex hghgh gghgh
+train/epoch_318{1.65s}
+train/epoch_319/loss 6.2866
+train/epoch_319/ex jjjj jjjj
+train/epoch_319/ex ccjjc cjjcj
+train/epoch_319/ex iii iii
+train/epoch_319/ex dddd bbbd
+train/epoch_319/ex cccc ccce
+train/epoch_319{1.65s}
+train/epoch_320/loss 5.9370
+train/epoch_320/ex bf bc
+train/epoch_320/ex ggg ggf
+train/epoch_320/ex c c
+train/epoch_320/ex affa baaf
+train/epoch_320/ex fh hc
+train/epoch_320{1.60s}
+train/epoch_321/loss 5.9383
+train/epoch_321/ex db db
+train/epoch_321/ex c c
+train/epoch_321/ex hhhhh hhhhh
+train/epoch_321/ex jjjj jjjj
+train/epoch_321/ex iiiii iiiii
+train/epoch_321{1.60s}
+train/epoch_322/loss 5.8068
+train/epoch_322/ex cccc cccc
+train/epoch_322/ex ddff fffd
+train/epoch_322/ex je eg
+train/epoch_322/ex bjjb jbbj
+train/epoch_322/ex aac caa
+train/epoch_322{1.65s}
+train/epoch_323/loss 5.7356
+train/epoch_323/ex ggggg ggggg
+train/epoch_323/ex hhhhh hhhhh
+train/epoch_323/ex jjjjjjjjj jjfjjjjjj
+train/epoch_323/ex ccggcg ggcggc
+train/epoch_323/ex aja jae
+train/epoch_323{1.74s}
+train/epoch_324/loss 6.3608
+train/epoch_324/ex ddd iii
+train/epoch_324/ex ggggg ggggg
+train/epoch_324/ex aaaaaa aaaaaa
+train/epoch_324/ex ffjf jffj
+train/epoch_324/ex jjhjh hhjjh
+train/epoch_324{1.63s}
+train/epoch_325/loss 6.1163
+train/epoch_325/ex eed eed
+train/epoch_325/ex gggg gggc
+train/epoch_325/ex aaaa aaaa
+train/epoch_325/ex g g
+train/epoch_325/ex cccc cccc
+train/epoch_325{1.60s}
+train/epoch_326/loss 6.3196
+train/epoch_326/ex i h
+train/epoch_326/ex jjjjjjj jjjjjjj
+train/epoch_326/ex bbbb bhbb
+train/epoch_326/ex ggggg ggggg
+train/epoch_326/ex ajjaj ajaja
+train/epoch_326{1.69s}
+train/epoch_327/loss 6.0687
+train/epoch_327/ex i e
+train/epoch_327/ex aaa aaa
+train/epoch_327/ex aaaaa aaaaa
+train/epoch_327/ex ggg ggg
+train/epoch_327/ex fffffffffff ffcfffgffff
+train/epoch_327{1.71s}
+train/epoch_328/loss 6.1832
+train/epoch_328/ex c h
+train/epoch_328/ex d h
+train/epoch_328/ex cgj acg
+train/epoch_328/ex d b
+train/epoch_328/ex gggb gcgg
+train/epoch_328{1.66s}
+train/epoch_329/loss 6.2093
+train/epoch_329/ex jjjj fjjj
+train/epoch_329/ex iii iic
+train/epoch_329/ex aaaaa haaaa
+train/epoch_329/ex aaaa aaaa
+train/epoch_329/ex cccca cccaa
+train/epoch_329{1.67s}
+train/epoch_330/loss 5.9111
+train/epoch_330/ex dc da
+train/epoch_330/ex cddbb cbbbd
+train/epoch_330/ex eeeee eeeee
+train/epoch_330/ex d d
+train/epoch_330/ex ei eb
+train/epoch_330{1.68s}
+train/epoch_331/loss 6.3757
+train/epoch_331/ex gggg gggc
+train/epoch_331/ex hhe aee
+train/epoch_331/ex cccc cccc
+train/epoch_331/ex ch ec
+train/epoch_331/ex aj ja
+train/epoch_331{1.70s}
+train/epoch_332/loss 6.0378
+train/epoch_332/ex hhh hhh
+train/epoch_332/ex eee gee
+train/epoch_332/ex ce hc
+train/epoch_332/ex jjjj jjjg
+train/epoch_332/ex ffffffff ffffffff
+train/epoch_332{1.67s}
+train/epoch_333/loss 5.9896
+train/epoch_333/ex iii iid
+train/epoch_333/ex j a
+train/epoch_333/ex ddbbbdd bdddbbb
+train/epoch_333/ex i i
+train/epoch_333/ex fffd fffd
+train/epoch_333{1.70s}
+train/epoch_334/loss 6.1915
+train/epoch_334/ex iiii iiii
+train/epoch_334/ex didid iiidi
+train/epoch_334/ex iiiiiii iiiiiii
+train/epoch_334/ex c c
+train/epoch_334/ex b b
+train/epoch_334{1.63s}
+train/epoch_335/loss 6.1718
+train/epoch_335/ex eeeeei ieeeee
+train/epoch_335/ex a i
+train/epoch_335/ex bbb bbb
+train/epoch_335/ex eeeei beiee
+train/epoch_335/ex ff ff
+train/epoch_335{1.70s}
+train/epoch_336/loss 5.7570
+train/epoch_336/ex fe fe
+train/epoch_336/ex ch bh
+train/epoch_336/ex c c
+train/epoch_336/ex jjjjjj jjjjjj
+train/epoch_336/ex iiiii iiiii
+train/epoch_336{1.67s}
+train/epoch_337/loss 5.8231
+train/epoch_337/ex iii iii
+train/epoch_337/ex ji ji
+train/epoch_337/ex dddddddddj djjdjjjdjj
+train/epoch_337/ex c d
+train/epoch_337/ex cccc cccc
+train/epoch_337{1.66s}
+train/epoch_338/loss 6.2300
+train/epoch_338/ex ab ad
+train/epoch_338/ex b d
+train/epoch_338/ex bbb bba
+train/epoch_338/ex iiii iiii
+train/epoch_338/ex ddd idd
+train/epoch_338{1.67s}
+train/epoch_339/loss 6.4937
+train/epoch_339/ex ge hg
+train/epoch_339/ex aaa aaa
+train/epoch_339/ex iii iii
+train/epoch_339/ex ja ja
+train/epoch_339/ex dde eed
+train/epoch_339{1.66s}
+train/epoch_340/loss 6.3367
+train/epoch_340/ex iiiig igiii
+train/epoch_340/ex cd cd
+train/epoch_340/ex cccc cccc
+train/epoch_340/ex iiii iiic
+train/epoch_340/ex cac ccg
+train/epoch_340{1.71s}
+train/epoch_341/loss 6.2187
+train/epoch_341/ex ddj bdd
+train/epoch_341/ex e h
+train/epoch_341/ex h g
+train/epoch_341/ex eeej eeej
+train/epoch_341/ex fffffb bfbffb
+train/epoch_341{1.71s}
+train/epoch_342/loss 6.1466
+train/epoch_342/ex bbb ebb
+train/epoch_342/ex b a
+train/epoch_342/ex ccg ccj
+train/epoch_342/ex bbb bbb
+train/epoch_342/ex fifi fdid
+train/epoch_342{1.69s}
+train/epoch_343/loss 6.1674
+train/epoch_343/ex ccccc cchcc
+train/epoch_343/ex eee eef
+train/epoch_343/ex d c
+train/epoch_343/ex cb cb
+train/epoch_343/ex gjjg jjgj
+train/epoch_343{1.72s}
+train/epoch_344/loss 5.9071
+train/epoch_344/ex hhha aaah
+train/epoch_344/ex ggg igf
+train/epoch_344/ex ig ia
+train/epoch_344/ex j j
+train/epoch_344/ex aa ja
+train/epoch_344{1.62s}
+train/epoch_345/loss 6.3706
+train/epoch_345/ex iii fii
+train/epoch_345/ex jjjjjjg gggjggj
+train/epoch_345/ex bc bj
+train/epoch_345/ex dgd dgd
+train/epoch_345/ex ccc cgg
+train/epoch_345{1.71s}
+train/epoch_346/loss 6.1455
+train/epoch_346/ex i f
+train/epoch_346/ex dddd dddd
+train/epoch_346/ex d g
+train/epoch_346/ex b i
+train/epoch_346/ex dde eed
+train/epoch_346{1.72s}
+train/epoch_347/loss 6.3149
+train/epoch_347/ex cdcdddc ddddccd
+train/epoch_347/ex d d
+train/epoch_347/ex hhi iid
+train/epoch_347/ex i b
+train/epoch_347/ex ddhdh ddcjh
+train/epoch_347{1.70s}
+train/epoch_348/loss 6.0296
+train/epoch_348/ex ggggg ggggg
+train/epoch_348/ex bb bb
+train/epoch_348/ex aaaaa aaaaa
+train/epoch_348/ex hjhj hhjh
+train/epoch_348/ex hhhhh hhhhh
+train/epoch_348{1.70s}
+train/epoch_349/loss 6.9180
+train/epoch_349/ex b b
+train/epoch_349/ex iddidid dididdi
+train/epoch_349/ex fff fff
+train/epoch_349/ex eeeeee eeeeec
+train/epoch_349/ex gdgdgg gdddgd
+train/epoch_349{1.70s}
+train/epoch_350/loss 6.2653
+train/epoch_350/ex cdcd dcdc
+train/epoch_350/ex ff ii
+train/epoch_350/ex ii ii
+train/epoch_350/ex bbbbbf bbbbfb
+train/epoch_350/ex hhhf ffhh
+train/epoch_350{1.60s}
+train/epoch_351/loss 5.7307
+train/epoch_351/ex fjjf jffj
+train/epoch_351/ex iiiiiiiiii iiiiiiiiii
+train/epoch_351/ex ggggg ggggg
+train/epoch_351/ex b b
+train/epoch_351/ex bbb bbb
+train/epoch_351{1.67s}
+train/epoch_352/loss 6.3049
+train/epoch_352/ex i i
+train/epoch_352/ex jj jj
+train/epoch_352/ex dddd dddd
+train/epoch_352/ex e e
+train/epoch_352/ex dd dd
+train/epoch_352{1.77s}
+train/epoch_353/loss 6.0001
+train/epoch_353/ex fffff fffff
+train/epoch_353/ex iii iig
+train/epoch_353/ex hhh hhh
+train/epoch_353/ex chch hchc
+train/epoch_353/ex aaaa aaia
+train/epoch_353{1.75s}
+train/epoch_354/loss 5.6768
+train/epoch_354/ex ccc ccc
+train/epoch_354/ex b h
+train/epoch_354/ex dddd dddd
+train/epoch_354/ex aaaaaaaaa aaaaaaaaa
+train/epoch_354/ex bbggggg biiibgg
+train/epoch_354{1.72s}
+train/epoch_355/loss 5.8546
+train/epoch_355/ex babab baabb
+train/epoch_355/ex i b
+train/epoch_355/ex bbhh hhhb
+train/epoch_355/ex eeeee eieee
+train/epoch_355/ex i g
+train/epoch_355{1.67s}
+train/epoch_356/loss 6.3981
+train/epoch_356/ex eee aee
+train/epoch_356/ex ei bi
+train/epoch_356/ex igg ibg
+train/epoch_356/ex j j
+train/epoch_356/ex ddd ddb
+train/epoch_356{1.68s}
+train/epoch_357/loss 6.2083
+train/epoch_357/ex jjjjjj djjgjj
+train/epoch_357/ex bb eb
+train/epoch_357/ex fff fff
+train/epoch_357/ex cccb cbcc
+train/epoch_357/ex gg cc
+train/epoch_357{1.62s}
+train/epoch_358/loss 6.4533
+train/epoch_358/ex bbf ffi
+train/epoch_358/ex aaaaaaa aaaaaaa
+train/epoch_358/ex jjjg jjgj
+train/epoch_358/ex hj ij
+train/epoch_358/ex aaa aaa
+train/epoch_358{1.64s}
+train/epoch_359/loss 6.2084
+train/epoch_359/ex hhhhh hhhhh
+train/epoch_359/ex i d
+train/epoch_359/ex ji jg
+train/epoch_359/ex fb fe
+train/epoch_359/ex bbb bbb
+train/epoch_359{1.63s}
+train/epoch_360/loss 6.5868
+train/epoch_360/ex aj gj
+train/epoch_360/ex hhaa fhha
+train/epoch_360/ex b d
+train/epoch_360/ex ddd ddd
+train/epoch_360/ex hb jh
+train/epoch_360{1.74s}
+train/epoch_361/loss 6.3684
+train/epoch_361/ex bbbb bbbc
+train/epoch_361/ex hh hf
+train/epoch_361/ex bh hc
+train/epoch_361/ex ffffffffff ffffffffff
+train/epoch_361/ex ffee fffd
+train/epoch_361{1.66s}
+train/epoch_362/loss 6.2143
+train/epoch_362/ex bbbbbb fbbbbb
+train/epoch_362/ex iff iif
+train/epoch_362/ex aaaaaa haahaa
+train/epoch_362/ex eeee eeee
+train/epoch_362/ex hhhhh hhhhh
+train/epoch_362{1.67s}
+train/epoch_363/loss 5.7841
+train/epoch_363/ex ee he
+train/epoch_363/ex jijiji ijjjfi
+train/epoch_363/ex hhh hhh
+train/epoch_363/ex ecjc eeje
+train/epoch_363/ex hhh hhh
+train/epoch_363{1.75s}
+train/epoch_364/loss 6.2260
+train/epoch_364/ex hh ff
+train/epoch_364/ex dc cd
+train/epoch_364/ex hhhhh ddddd
+train/epoch_364/ex aaaaaa aaaaae
+train/epoch_364/ex ggg ggj
+train/epoch_364{1.62s}
+train/epoch_365/loss 6.4527
+train/epoch_365/ex dddd bddd
+train/epoch_365/ex iiii iiii
+train/epoch_365/ex i f
+train/epoch_365/ex j j
+train/epoch_365/ex iiiiiiia fiiiifcc
+train/epoch_365{1.67s}
+train/epoch_366/loss 5.9261
+train/epoch_366/ex bbbbb bbbbb
+train/epoch_366/ex iji hhj
+train/epoch_366/ex gg ii
+train/epoch_366/ex eeee geee
+train/epoch_366/ex bjb bgj
+train/epoch_366{1.67s}
+train/epoch_367/loss 6.0866
+train/epoch_367/ex d d
+train/epoch_367/ex jj bb
+train/epoch_367/ex aaa aaa
+train/epoch_367/ex d h
+train/epoch_367/ex ddg ggd
+train/epoch_367{1.66s}
+train/epoch_368/loss 5.8218
+train/epoch_368/ex cc cc
+train/epoch_368/ex j j
+train/epoch_368/ex h g
+train/epoch_368/ex ffbbb fffbf
+train/epoch_368/ex ge be
+train/epoch_368{1.73s}
+train/epoch_369/loss 6.4046
+train/epoch_369/ex eege eege
+train/epoch_369/ex d b
+train/epoch_369/ex iiiiiii iiiiiia
+train/epoch_369/ex jj jj
+train/epoch_369/ex fa fa
+train/epoch_369{1.72s}
+train/epoch_370/loss 5.9136
+train/epoch_370/ex hhh hhh
+train/epoch_370/ex e e
+train/epoch_370/ex c j
+train/epoch_370/ex jdjdj jjddc
+train/epoch_370/ex i d
+train/epoch_370{1.62s}
+train/epoch_371/loss 6.2363
+train/epoch_371/ex jjd jaj
+train/epoch_371/ex hggh hghh
+train/epoch_371/ex ahah ehef
+train/epoch_371/ex cccch gccch
+train/epoch_371/ex eej ebe
+train/epoch_371{1.59s}
+train/epoch_372/loss 6.3825
+train/epoch_372/ex eea eae
+train/epoch_372/ex ddddd ddddd
+train/epoch_372/ex c d
+train/epoch_372/ex afaaf aaafa
+train/epoch_372/ex fe fd
+train/epoch_372{1.66s}
+train/epoch_373/loss 6.0288
+train/epoch_373/ex ddddddd ddddddd
+train/epoch_373/ex ddddd ddddd
+train/epoch_373/ex j e
+train/epoch_373/ex iiiii iiiii
+train/epoch_373/ex ececeh hchhee
+train/epoch_373{1.74s}
+train/epoch_374/loss 5.7189
+train/epoch_374/ex fff fff
+train/epoch_374/ex e e
+train/epoch_374/ex hhii hihh
+train/epoch_374/ex fa ag
+train/epoch_374/ex eeje aehj
+train/epoch_374{1.68s}
+train/epoch_375/loss 6.1286
+train/epoch_375/ex dg ed
+train/epoch_375/ex fj jf
+train/epoch_375/ex fffff fffff
+train/epoch_375/ex bc cb
+train/epoch_375/ex gdgdg dgdgd
+train/epoch_375{1.61s}
+train/epoch_376/loss 5.9586
+train/epoch_376/ex gjgjjgj ajaaaaj
+train/epoch_376/ex bbbbbbb bbccccc
+train/epoch_376/ex i g
+train/epoch_376/ex db db
+train/epoch_376/ex iiig iiig
+train/epoch_376{1.72s}
+train/epoch_377/loss 6.3735
+train/epoch_377/ex gg gg
+train/epoch_377/ex fifi ffif
+train/epoch_377/ex iiic icii
+train/epoch_377/ex iijjij iiijii
+train/epoch_377/ex jjjj jjjj
+train/epoch_377{1.72s}
+train/epoch_378/loss 6.2734
+train/epoch_378/ex ccc ggg
+train/epoch_378/ex cccc cccc
+train/epoch_378/ex ccccc ccccc
+train/epoch_378/ex ggg ggg
+train/epoch_378/ex j e
+train/epoch_378{1.67s}
+train/epoch_379/loss 6.3686
+train/epoch_379/ex g c
+train/epoch_379/ex d a
+train/epoch_379/ex hhh ghh
+train/epoch_379/ex jjjj jjjj
+train/epoch_379/ex ggg ddd
+train/epoch_379{1.68s}
+train/epoch_380/loss 6.1349
+train/epoch_380/ex c j
+train/epoch_380/ex i a
+train/epoch_380/ex hjj hjj
+train/epoch_380/ex ca ca
+train/epoch_380/ex jjjjjjj jjjjjjj
+train/epoch_380{1.69s}
+train/epoch_381/loss 6.3028
+train/epoch_381/ex jjjj jjjj
+train/epoch_381/ex bbbb jbbb
+train/epoch_381/ex hhhhh hhhhh
+train/epoch_381/ex jjdd jdff
+train/epoch_381/ex ddbbd dbbdd
+train/epoch_381{1.66s}
+train/epoch_382/loss 5.8893
+train/epoch_382/ex ddddb ddfdd
+train/epoch_382/ex c d
+train/epoch_382/ex fjb hfj
+train/epoch_382/ex e j
+train/epoch_382/ex e b
+train/epoch_382{1.68s}
+train/epoch_383/loss 6.1314
+train/epoch_383/ex hhh hhh
+train/epoch_383/ex hh hh
+train/epoch_383/ex fffff iffff
+train/epoch_383/ex aaa aaa
+train/epoch_383/ex eei eeg
+train/epoch_383{1.68s}
+train/epoch_384/loss 5.6820
+train/epoch_384/ex i b
+train/epoch_384/ex e j
+train/epoch_384/ex jjj aaa
+train/epoch_384/ex gd jf
+train/epoch_384/ex bj fb
+train/epoch_384{1.72s}
+train/epoch_385/loss 6.1967
+train/epoch_385/ex d f
+train/epoch_385/ex bbg gaa
+train/epoch_385/ex gggg gggg
+train/epoch_385/ex ghghgh gghhgh
+train/epoch_385/ex c c
+train/epoch_385{1.64s}
+train/epoch_386/loss 5.9736
+train/epoch_386/ex iiiii iiiii
+train/epoch_386/ex jjjjjjj jjjjjjj
+train/epoch_386/ex jj jj
+train/epoch_386/ex aa aa
+train/epoch_386/ex cdcd fccd
+train/epoch_386{1.68s}
+train/epoch_387/loss 5.7759
+train/epoch_387/ex ccc cci
+train/epoch_387/ex bci eca
+train/epoch_387/ex hhh ghh
+train/epoch_387/ex j j
+train/epoch_387/ex j a
+train/epoch_387{1.66s}
+train/epoch_388/loss 6.4127
+train/epoch_388/ex aab aac
+train/epoch_388/ex bba hff
+train/epoch_388/ex iibiiiii iibiibii
+train/epoch_388/ex hhhhh hhhhh
+train/epoch_388/ex eee eej
+train/epoch_388{1.67s}
+train/epoch_389/loss 6.2089
+train/epoch_389/ex i d
+train/epoch_389/ex bbbbbgggg agggbabbb
+train/epoch_389/ex ccc gcc
+train/epoch_389/ex da da
+train/epoch_389/ex bgbgbg fbbbgb
+train/epoch_389{1.72s}
+train/epoch_390/loss 5.9688
+train/epoch_390/ex dd dd
+train/epoch_390/ex aaaaaaaaaaa iiaaaiaiaia
+train/epoch_390/ex ababa aabaa
+train/epoch_390/ex aaaaaa aaaaff
+train/epoch_390/ex d a
+train/epoch_390{1.72s}
+train/epoch_391/loss 5.9084
+train/epoch_391/ex aaaaj jjjaa
+train/epoch_391/ex jjjjj jjbjj
+train/epoch_391/ex iij iji
+train/epoch_391/ex hjih hhih
+train/epoch_391/ex gg gg
+train/epoch_391{1.69s}
+train/epoch_392/loss 5.7375
+train/epoch_392/ex ccc ccc
+train/epoch_392/ex c g
+train/epoch_392/ex hjhj hijh
+train/epoch_392/ex aaaa aaah
+train/epoch_392/ex aaa aaa
+train/epoch_392{1.65s}
+train/epoch_393/loss 6.4508
+train/epoch_393/ex dde bdb
+train/epoch_393/ex egege geege
+train/epoch_393/ex eee eee
+train/epoch_393/ex eeee eeee
+train/epoch_393/ex ddddd ddidf
+train/epoch_393{1.67s}
+train/epoch_394/loss 6.1535
+train/epoch_394/ex ccccccc ccccccc
+train/epoch_394/ex ddj did
+train/epoch_394/ex eee eee
+train/epoch_394/ex igig ejii
+train/epoch_394/ex jjhhhj hhjhhj
+train/epoch_394{1.72s}
+train/epoch_395/loss 6.4586
+train/epoch_395/ex aaaa aaah
+train/epoch_395/ex jjjjjbb bbgjjjb
+train/epoch_395/ex gggg gggg
+train/epoch_395/ex ffbbbb ffbfff
+train/epoch_395/ex j c
+train/epoch_395{1.68s}
+train/epoch_396/loss 5.9828
+train/epoch_396/ex d i
+train/epoch_396/ex bbb bbb
+train/epoch_396/ex eg ae
+train/epoch_396/ex d g
+train/epoch_396/ex b h
+train/epoch_396{1.68s}
+train/epoch_397/loss 6.5899
+train/epoch_397/ex hhh hhh
+train/epoch_397/ex ji hi
+train/epoch_397/ex jjfjf ijiji
+train/epoch_397/ex bg hg
+train/epoch_397/ex fff fff
+train/epoch_397{1.68s}
+train/epoch_398/loss 6.1268
+train/epoch_398/ex bbbh bbhb
+train/epoch_398/ex dddd dddd
+train/epoch_398/ex bbbd dbdb
+train/epoch_398/ex cccc cccc
+train/epoch_398/ex iii iii
+train/epoch_398{1.65s}
+train/epoch_399/loss 5.7406
+train/epoch_399/ex ff gg
+train/epoch_399/ex gbc eeg
+train/epoch_399/ex cc cc
+train/epoch_399/ex bbbbb hbbbb
+train/epoch_399/ex jej jij
+train/epoch_399{1.65s}
+train/epoch_400/loss 6.2328
+train/epoch_400/ex iiiiii iiiiii
+train/epoch_400/ex aaa gaa
+train/epoch_400/ex j j
+train/epoch_400/ex gjjg gehh
+train/epoch_400/ex eeeee geeee
+train/epoch_400{1.70s}
+train/epoch_401/loss 6.0554
+train/epoch_401/ex eeeeeeee aeeeeeee
+train/epoch_401/ex iiii iiii
+train/epoch_401/ex eeeee eeeee
+train/epoch_401/ex c b
+train/epoch_401/ex fa ed
+train/epoch_401{1.62s}
+train/epoch_402/loss 6.2234
+train/epoch_402/ex aaj jaa
+train/epoch_402/ex he ah
+train/epoch_402/ex bddbf bdbbd
+train/epoch_402/ex eeeeeee eeeeeee
+train/epoch_402/ex gg cc
+train/epoch_402{1.65s}
+train/epoch_403/loss 6.1876
+train/epoch_403/ex idid iidi
+train/epoch_403/ex fc cd
+train/epoch_403/ex hee fee
+train/epoch_403/ex jjjjj jjjjb
+train/epoch_403/ex bbbj cjcc
+train/epoch_403{1.66s}
+train/epoch_404/loss 6.3013
+train/epoch_404/ex cccd ccjj
+train/epoch_404/ex ggg fff
+train/epoch_404/ex bjjb bjbj
+train/epoch_404/ex aaaaaaa aaaaaaa
+train/epoch_404/ex cjcjc gjdcj
+train/epoch_404{1.65s}
+train/epoch_405/loss 6.0273
+train/epoch_405/ex c d
+train/epoch_405/ex j j
+train/epoch_405/ex aaa aaa
+train/epoch_405/ex ddddb dbddb
+train/epoch_405/ex ahah haah
+train/epoch_405{1.66s}
+train/epoch_406/loss 6.3622
+train/epoch_406/ex e c
+train/epoch_406/ex bbbbb bbbbe
+train/epoch_406/ex ggggggggg ggggggggg
+train/epoch_406/ex adaaab baddba
+train/epoch_406/ex hhjj hjjh
+train/epoch_406{1.65s}
+train/epoch_407/loss 6.1803
+train/epoch_407/ex ffff ffff
+train/epoch_407/ex gggg fggg
+train/epoch_407/ex ddd ddd
+train/epoch_407/ex dffd fdff
+train/epoch_407/ex cc cb
+train/epoch_407{1.71s}
+train/epoch_408/loss 6.0481
+train/epoch_408/ex ffff ffff
+train/epoch_408/ex jhj jhj
+train/epoch_408/ex deedde edjdjj
+train/epoch_408/ex gdgada ddgagd
+train/epoch_408/ex eej eej
+train/epoch_408{1.63s}
+train/epoch_409/loss 6.1948
+train/epoch_409/ex ea eb
+train/epoch_409/ex fff fff
+train/epoch_409/ex hhh hhj
+train/epoch_409/ex aaf faa
+train/epoch_409/ex ii ii
+train/epoch_409{1.66s}
+train/epoch_410/loss 6.0313
+train/epoch_410/ex dd dd
+train/epoch_410/ex j e
+train/epoch_410/ex aaaaa daaaa
+train/epoch_410/ex aaa gaa
+train/epoch_410/ex ee eh
+train/epoch_410{1.68s}
+train/epoch_411/loss 6.1728
+train/epoch_411/ex b d
+train/epoch_411/ex aaa aaj
+train/epoch_411/ex jjjj ajjj
+train/epoch_411/ex iii iii
+train/epoch_411/ex aaaa aaah
+train/epoch_411{1.71s}
+train/epoch_412/loss 5.8488
+train/epoch_412/ex jjj jjj
+train/epoch_412/ex d c
+train/epoch_412/ex ddd ddd
+train/epoch_412/ex eee eea
+train/epoch_412/ex ffffff ffffff
+train/epoch_412{1.58s}
+train/epoch_413/loss 6.4548
+train/epoch_413/ex j c
+train/epoch_413/ex cjj jcc
+train/epoch_413/ex ggggg ggggg
+train/epoch_413/ex iiiih hihii
+train/epoch_413/ex d d
+train/epoch_413{1.65s}
+train/epoch_414/loss 5.9420
+train/epoch_414/ex iiii iiii
+train/epoch_414/ex cjcj jcjc
+train/epoch_414/ex ccccc cccgc
+train/epoch_414/ex iiii iiih
+train/epoch_414/ex c d
+train/epoch_414{1.71s}
+train/epoch_415/loss 6.2099
+train/epoch_415/ex ddddddd ddddddd
+train/epoch_415/ex hhhjjjh hjhjjjh
+train/epoch_415/ex ee aa
+train/epoch_415/ex efeefe efeffe
+train/epoch_415/ex b b
+train/epoch_415{1.66s}
+train/epoch_416/loss 6.3344
+train/epoch_416/ex jjjj bjjj
+train/epoch_416/ex bb bb
+train/epoch_416/ex d i
+train/epoch_416/ex i i
+train/epoch_416/ex b f
+train/epoch_416{1.73s}
+train/epoch_417/loss 6.5784
+train/epoch_417/ex hch chg
+train/epoch_417/ex ccccc ccccc
+train/epoch_417/ex da ja
+train/epoch_417/ex ededed ddeded
+train/epoch_417/ex ggggg ggggg
+train/epoch_417{1.73s}
+train/epoch_418/loss 6.2283
+train/epoch_418/ex iiiii iiiii
+train/epoch_418/ex i e
+train/epoch_418/ex j a
+train/epoch_418/ex ccc ccc
+train/epoch_418/ex ccch dhhh
+train/epoch_418{1.67s}
+train/epoch_419/loss 5.8940
+train/epoch_419/ex cd dh
+train/epoch_419/ex h d
+train/epoch_419/ex aaa eee
+train/epoch_419/ex cdcdcddc dgdcgdcd
+train/epoch_419/ex bc gb
+train/epoch_419{1.67s}
+train/epoch_420/loss 6.0457
+train/epoch_420/ex aaaa haaa
+train/epoch_420/ex cffcfcc fccccfc
+train/epoch_420/ex bbhhbbbh bbbbhhbh
+train/epoch_420/ex aaaa aaaa
+train/epoch_420/ex hhhhh hhhhh
+train/epoch_420{1.73s}
+train/epoch_421/loss 6.1142
+train/epoch_421/ex chccccccccch chchhhchhhhh
+train/epoch_421/ex jjjj jjjj
+train/epoch_421/ex cc ic
+train/epoch_421/ex ii cc
+train/epoch_421/ex chc cih
+train/epoch_421{1.74s}
+train/epoch_422/loss 6.4450
+train/epoch_422/ex ic cj
+train/epoch_422/ex jfjjf ddjff
+train/epoch_422/ex aaaa aaaa
+train/epoch_422/ex gggg gggg
+train/epoch_422/ex dadad ajdjd
+train/epoch_422{1.65s}
+train/epoch_423/loss 5.9950
+train/epoch_423/ex hhhh ahhe
+train/epoch_423/ex bg gb
+train/epoch_423/ex ddddd ddddd
+train/epoch_423/ex ii ii
+train/epoch_423/ex bbbb bbbb
+train/epoch_423{1.70s}
+train/epoch_424/loss 6.0490
+train/epoch_424/ex ig ih
+train/epoch_424/ex i i
+train/epoch_424/ex iih iih
+train/epoch_424/ex ddddddd dgdgdgg
+train/epoch_424/ex fj jf
+train/epoch_424{1.64s}
+train/epoch_425/loss 5.8621
+train/epoch_425/ex j a
+train/epoch_425/ex cdc dcd
+train/epoch_425/ex eeje efgj
+train/epoch_425/ex aaaaaf ffaffa
+train/epoch_425/ex iiii gggb
+train/epoch_425{1.71s}
+train/epoch_426/loss 6.2427
+train/epoch_426/ex e e
+train/epoch_426/ex cc gg
+train/epoch_426/ex ejg geg
+train/epoch_426/ex jjij iffh
+train/epoch_426/ex iih hhf
+train/epoch_426{1.64s}
+train/epoch_427/loss 6.4234
+train/epoch_427/ex b a
+train/epoch_427/ex ggg egg
+train/epoch_427/ex fffff fcfff
+train/epoch_427/ex iiiii iiiii
+train/epoch_427/ex hfh cfh
+train/epoch_427{1.61s}
+train/epoch_428/loss 6.0105
+train/epoch_428/ex b a
+train/epoch_428/ex i i
+train/epoch_428/ex fe ei
+train/epoch_428/ex dddddddddd dddddddddd
+train/epoch_428/ex b b
+train/epoch_428{1.62s}
+train/epoch_429/loss 5.9524
+train/epoch_429/ex hhhhh hhhhh
+train/epoch_429/ex ccccc ccccc
+train/epoch_429/ex hhhhh bbbbb
+train/epoch_429/ex d d
+train/epoch_429/ex ggg ggb
+train/epoch_429{1.70s}
+train/epoch_430/loss 6.5278
+train/epoch_430/ex i h
+train/epoch_430/ex aaa iaa
+train/epoch_430/ex aaj jaa
+train/epoch_430/ex fffi iffd
+train/epoch_430/ex bbbbb bbbeb
+train/epoch_430{1.65s}
+train/epoch_431/loss 6.4249
+train/epoch_431/ex ggg ghh
+train/epoch_431/ex je jh
+train/epoch_431/ex iii jjj
+train/epoch_431/ex fd fd
+train/epoch_431/ex ffff faff
+train/epoch_431{1.69s}
+train/epoch_432/loss 6.0528
+train/epoch_432/ex dd dd
+train/epoch_432/ex cdd ccd
+train/epoch_432/ex gig aig
+train/epoch_432/ex ddd ddd
+train/epoch_432/ex ebeb jbbe
+train/epoch_432{1.67s}
+train/epoch_433/loss 6.2883
+train/epoch_433/ex fffff hhhhh
+train/epoch_433/ex fff fff
+train/epoch_433/ex hihihi hihhih
+train/epoch_433/ex g h
+train/epoch_433/ex jjhj cjjc
+train/epoch_433{1.61s}
+train/epoch_434/loss 6.0974
+train/epoch_434/ex gggj hhgh
+train/epoch_434/ex ib ic
+train/epoch_434/ex fff dff
+train/epoch_434/ex bgb bgc
+train/epoch_434/ex hhh hhh
+train/epoch_434{1.73s}
+train/epoch_435/loss 5.4621
+train/epoch_435/ex eee eee
+train/epoch_435/ex fj gj
+train/epoch_435/ex e j
+train/epoch_435/ex aaa aab
+train/epoch_435/ex jjjj jjjj
+train/epoch_435{1.65s}
+train/epoch_436/loss 5.6770
+train/epoch_436/ex c c
+train/epoch_436/ex ee aa
+train/epoch_436/ex aaag aaga
+train/epoch_436/ex hhhh bhhh
+train/epoch_436/ex iii hii
+train/epoch_436{1.74s}
+train/epoch_437/loss 6.2312
+train/epoch_437/ex eec eec
+train/epoch_437/ex ddd ddd
+train/epoch_437/ex gh gj
+train/epoch_437/ex aaaaa aaaaa
+train/epoch_437/ex jjij fjji
+train/epoch_437{1.65s}
+train/epoch_438/loss 6.1330
+train/epoch_438/ex ggg ggh
+train/epoch_438/ex c c
+train/epoch_438/ex jjd jgj
+train/epoch_438/ex jj jj
+train/epoch_438/ex eeceec cbceec
+train/epoch_438{1.67s}
+train/epoch_439/loss 6.4038
+train/epoch_439/ex jj aj
+train/epoch_439/ex ccccc ccccc
+train/epoch_439/ex be ib
+train/epoch_439/ex egea eefa
+train/epoch_439/ex aaaaa aaaaa
+train/epoch_439{1.65s}
+train/epoch_440/loss 5.8897
+train/epoch_440/ex gggggg gggggg
+train/epoch_440/ex hhhjjj jjhjhh
+train/epoch_440/ex c c
+train/epoch_440/ex cd bf
+train/epoch_440/ex ea de
+train/epoch_440{1.72s}
+train/epoch_441/loss 5.9677
+train/epoch_441/ex ggg ggd
+train/epoch_441/ex bbbbbb bbfbbb
+train/epoch_441/ex aaaaaa aaaaaa
+train/epoch_441/ex c b
+train/epoch_441/ex gg ii
+train/epoch_441{1.59s}
+train/epoch_442/loss 5.5883
+train/epoch_442/ex eea eef
+train/epoch_442/ex iii iii
+train/epoch_442/ex jd jg
+train/epoch_442/ex ccc ccc
+train/epoch_442/ex eeee aeee
+train/epoch_442{1.72s}
+train/epoch_443/loss 6.0468
+train/epoch_443/ex iiiiiiiii iiiiiiiii
+train/epoch_443/ex ddd ddd
+train/epoch_443/ex j c
+train/epoch_443/ex i f
+train/epoch_443/ex fjef ejjf
+train/epoch_443{1.66s}
+train/epoch_444/loss 6.1882
+train/epoch_444/ex hhhhhhh hhhhhhh
+train/epoch_444/ex cccccc cccccc
+train/epoch_444/ex jjjjjjj jjjjjjj
+train/epoch_444/ex bi bi
+train/epoch_444/ex jc jc
+train/epoch_444{1.67s}
+train/epoch_445/loss 6.0480
+train/epoch_445/ex be bd
+train/epoch_445/ex ac ge
+train/epoch_445/ex aaa aaa
+train/epoch_445/ex dddd dddd
+train/epoch_445/ex eee eee
+train/epoch_445{1.71s}
+train/epoch_446/loss 6.5290
+train/epoch_446/ex c g
+train/epoch_446/ex ahhaha aaahah
+train/epoch_446/ex e c
+train/epoch_446/ex ddddd ddddd
+train/epoch_446/ex iiciicic iiiiccic
+train/epoch_446{1.64s}
+train/epoch_447/loss 6.0909
+train/epoch_447/ex jcjc bicj
+train/epoch_447/ex eeeeeei ihhhhii
+train/epoch_447/ex fdg dfc
+train/epoch_447/ex aaa aaa
+train/epoch_447/ex jffjf jjhjf
+train/epoch_447{1.70s}
+train/epoch_448/loss 6.4686
+train/epoch_448/ex jjjj jjjj
+train/epoch_448/ex iji cij
+train/epoch_448/ex aaia aaia
+train/epoch_448/ex fc ca
+train/epoch_448/ex aaae daae
+train/epoch_448{1.69s}
+train/epoch_449/loss 6.1415
+train/epoch_449/ex bbbbj bbbbj
+train/epoch_449/ex fffff fffff
+train/epoch_449/ex iii iii
+train/epoch_449/ex aiaiai iiiaai
+train/epoch_449/ex jfjjf djfff
+train/epoch_449{1.61s}
+train/epoch_450/loss 6.0899
+train/epoch_450/ex jeejee ehehje
+train/epoch_450/ex bbbbb bbbbh
+train/epoch_450/ex bj cb
+train/epoch_450/ex ccaccacc caccacac
+train/epoch_450/ex ddddd ddddd
+train/epoch_450{1.74s}
+train/epoch_451/loss 6.2052
+train/epoch_451/ex cccccccc cccccecc
+train/epoch_451/ex ibiibi ibiiii
+train/epoch_451/ex hhhhhhhhhh hhhhhhhhhh
+train/epoch_451/ex ge gb
+train/epoch_451/ex iia aai
+train/epoch_451{1.68s}
+train/epoch_452/loss 6.4461
+train/epoch_452/ex fff fff
+train/epoch_452/ex hgg hhg
+train/epoch_452/ex iiii iiii
+train/epoch_452/ex ee jj
+train/epoch_452/ex bbggg bgggb
+train/epoch_452{1.65s}
+train/epoch_453/loss 6.0896
+train/epoch_453/ex ehehehe ddehhdh
+train/epoch_453/ex ddd ddd
+train/epoch_453/ex jjjjj jjjjj
+train/epoch_453/ex di bj
+train/epoch_453/ex aaaaaa faaaaa
+train/epoch_453{1.67s}
+train/epoch_454/loss 5.8263
+train/epoch_454/ex e a
+train/epoch_454/ex caccccjc ajajacaa
+train/epoch_454/ex gggg aggg
+train/epoch_454/ex eje jej
+train/epoch_454/ex bbbb bccc
+train/epoch_454{1.74s}
+train/epoch_455/loss 5.9745
+train/epoch_455/ex cccc cccc
+train/epoch_455/ex ab ga
+train/epoch_455/ex aaaaaaaaa aaaaaaaaa
+train/epoch_455/ex hehe eehe
+train/epoch_455/ex eei jee
+train/epoch_455{1.62s}
+train/epoch_456/loss 6.1401
+train/epoch_456/ex eee eee
+train/epoch_456/ex aaa aaa
+train/epoch_456/ex ccccc ccccc
+train/epoch_456/ex ggggg ggggg
+train/epoch_456/ex fch fcf
+train/epoch_456{1.68s}
+train/epoch_457/loss 6.0618
+train/epoch_457/ex e e
+train/epoch_457/ex ffhhhf hhfhhf
+train/epoch_457/ex jjjjj jjjjh
+train/epoch_457/ex gggggf gfgggg
+train/epoch_457/ex jhj jhe
+train/epoch_457{1.65s}
+train/epoch_458/loss 6.3180
+train/epoch_458/ex ha ji
+train/epoch_458/ex d c
+train/epoch_458/ex ca ag
+train/epoch_458/ex j e
+train/epoch_458/ex dj de
+train/epoch_458{1.71s}
+train/epoch_459/loss 5.7988
+train/epoch_459/ex aad aag
+train/epoch_459/ex i i
+train/epoch_459/ex ccc jjj
+train/epoch_459/ex ccc ccc
+train/epoch_459/ex ggg ggd
+train/epoch_459{1.73s}
+train/epoch_460/loss 5.9250
+train/epoch_460/ex ffff ffff
+train/epoch_460/ex ddd ddd
+train/epoch_460/ex hhh hhh
+train/epoch_460/ex dfd idf
+train/epoch_460/ex c c
+train/epoch_460{1.63s}
+train/epoch_461/loss 5.8154
+train/epoch_461/ex aaa afa
+train/epoch_461/ex i i
+train/epoch_461/ex ddd iii
+train/epoch_461/ex gggg gggg
+train/epoch_461/ex ggg ggj
+train/epoch_461{1.60s}
+train/epoch_462/loss 6.4168
+train/epoch_462/ex aaaaa aaaaa
+train/epoch_462/ex dddf eedd
+train/epoch_462/ex ii ii
+train/epoch_462/ex jjj jji
+train/epoch_462/ex bbb bbd
+train/epoch_462{1.66s}
+train/epoch_463/loss 6.2851
+train/epoch_463/ex jjj jjj
+train/epoch_463/ex aaa eee
+train/epoch_463/ex d e
+train/epoch_463/ex ggg ggg
+train/epoch_463/ex eee eee
+train/epoch_463{1.69s}
+train/epoch_464/loss 5.9816
+train/epoch_464/ex aaaa aaha
+train/epoch_464/ex dc dc
+train/epoch_464/ex dada daad
+train/epoch_464/ex jhhhjjh hjhjjhh
+train/epoch_464/ex fhf hfh
+train/epoch_464{1.72s}
+train/epoch_465/loss 5.9140
+train/epoch_465/ex iijjji ijijjj
+train/epoch_465/ex ic jc
+train/epoch_465/ex aag gaa
+train/epoch_465/ex hhh jhh
+train/epoch_465/ex ddd hdd
+train/epoch_465{1.64s}
+train/epoch_466/loss 5.9214
+train/epoch_466/ex c d
+train/epoch_466/ex ggg cgg
+train/epoch_466/ex hhhhd dhdhh
+train/epoch_466/ex hd bh
+train/epoch_466/ex bjbj djbj
+train/epoch_466{1.64s}
+train/epoch_467/loss 6.4123
+train/epoch_467/ex ceaea aegec
+train/epoch_467/ex bbh bhb
+train/epoch_467/ex aaaaaa caaaaa
+train/epoch_467/ex ggg ggg
+train/epoch_467/ex d b
+train/epoch_467{1.75s}
+train/epoch_468/loss 6.0019
+train/epoch_468/ex ei ej
+train/epoch_468/ex dddc cdcd
+train/epoch_468/ex ggdd gdgg
+train/epoch_468/ex fe ef
+train/epoch_468/ex hh hh
+train/epoch_468{1.68s}
+train/epoch_469/loss 6.5598
+train/epoch_469/ex jjjj jjjj
+train/epoch_469/ex ggggg ggggg
+train/epoch_469/ex aga aga
+train/epoch_469/ex bbb bbb
+train/epoch_469/ex hg dh
+train/epoch_469{1.75s}
+train/epoch_470/loss 5.9900
+train/epoch_470/ex hh hh
+train/epoch_470/ex hhj bhh
+train/epoch_470/ex gg aa
+train/epoch_470/ex gd gj
+train/epoch_470/ex ga ia
+train/epoch_470{1.70s}
+train/epoch_471/loss 6.3808
+train/epoch_471/ex ec ic
+train/epoch_471/ex gh ag
+train/epoch_471/ex iiii giii
+train/epoch_471/ex aaag ahaa
+train/epoch_471/ex ffff ffff
+train/epoch_471{1.67s}
+train/epoch_472/loss 6.0119
+train/epoch_472/ex i i
+train/epoch_472/ex aaaa aaaa
+train/epoch_472/ex ggg ggg
+train/epoch_472/ex iiii iiii
+train/epoch_472/ex bbb bbb
+train/epoch_472{1.69s}
+train/epoch_473/loss 6.0915
+train/epoch_473/ex hf hf
+train/epoch_473/ex dd gg
+train/epoch_473/ex aaj aac
+train/epoch_473/ex eegg gbee
+train/epoch_473/ex gc ig
+train/epoch_473{1.63s}
+train/epoch_474/loss 6.1220
+train/epoch_474/ex ccccc ccccc
+train/epoch_474/ex ejejj ejeej
+train/epoch_474/ex d c
+train/epoch_474/ex gg ee
+train/epoch_474/ex d c
+train/epoch_474{1.63s}
+train/epoch_475/loss 5.9406
+train/epoch_475/ex eeeee aeeee
+train/epoch_475/ex aah haa
+train/epoch_475/ex ddddd ddddd
+train/epoch_475/ex j b
+train/epoch_475/ex hhh hhh
+train/epoch_475{1.66s}
+train/epoch_476/loss 5.6717
+train/epoch_476/ex e a
+train/epoch_476/ex jjjjj jdjjj
+train/epoch_476/ex ajjaj eajjj
+train/epoch_476/ex aaaaa aaaaa
+train/epoch_476/ex i i
+train/epoch_476{1.63s}
+train/epoch_477/loss 6.0442
+train/epoch_477/ex eeeee eeeee
+train/epoch_477/ex jjj jjj
+train/epoch_477/ex dddd dddd
+train/epoch_477/ex jjj eee
+train/epoch_477/ex cgccggc gcccggg
+train/epoch_477{1.71s}
+train/epoch_478/loss 5.9641
+train/epoch_478/ex jjjjjjj jjjggjj
+train/epoch_478/ex ff ff
+train/epoch_478/ex hhh bbb
+train/epoch_478/ex ggc gfg
+train/epoch_478/ex aaaaa baaaa
+train/epoch_478{1.71s}
+train/epoch_479/loss 6.0973
+train/epoch_479/ex jf gj
+train/epoch_479/ex aa da
+train/epoch_479/ex eeee geee
+train/epoch_479/ex iii iii
+train/epoch_479/ex aaaj aaaj
+train/epoch_479{1.65s}
+train/epoch_480/loss 6.2255
+train/epoch_480/ex baba babb
+train/epoch_480/ex c e
+train/epoch_480/ex gggge ggeee
+train/epoch_480/ex eb ce
+train/epoch_480/ex bbbgg gbbbb
+train/epoch_480{1.65s}
+train/epoch_481/loss 5.8839
+train/epoch_481/ex iiiiiiiii biiiiiiii
+train/epoch_481/ex ahah ihah
+train/epoch_481/ex j j
+train/epoch_481/ex ccccc ccccc
+train/epoch_481/ex jjcjd jdcjj
+train/epoch_481{1.75s}
+train/epoch_482/loss 5.8425
+train/epoch_482/ex e i
+train/epoch_482/ex aaaa aaaa
+train/epoch_482/ex gggg gggg
+train/epoch_482/ex aaaa eaaa
+train/epoch_482/ex cccc cccc
+train/epoch_482{1.68s}
+train/epoch_483/loss 6.1832
+train/epoch_483/ex jh aj
+train/epoch_483/ex df df
+train/epoch_483/ex aaaaf eaeia
+train/epoch_483/ex jhj jhj
+train/epoch_483/ex gggg ggef
+train/epoch_483{1.68s}
+train/epoch_484/loss 6.2235
+train/epoch_484/ex eeeeee eeeeee
+train/epoch_484/ex fff fff
+train/epoch_484/ex jjjj jjja
+train/epoch_484/ex aa jj
+train/epoch_484/ex dddddd ddbddd
+train/epoch_484{1.71s}
+train/epoch_485/loss 6.2125
+train/epoch_485/ex bbjj gjjb
+train/epoch_485/ex e i
+train/epoch_485/ex jjjj jjjj
+train/epoch_485/ex iii iii
+train/epoch_485/ex jh ji
+train/epoch_485{1.74s}
+train/epoch_486/loss 6.1269
+train/epoch_486/ex aaaa agaa
+train/epoch_486/ex aaaaaaaaaa ijijaajjji
+train/epoch_486/ex ejej jejj
+train/epoch_486/ex aggag agaaa
+train/epoch_486/ex bbbb bbbd
+train/epoch_486{1.63s}

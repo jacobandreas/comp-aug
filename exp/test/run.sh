@@ -2,4 +2,6 @@
 
 #export PYTHONPATH='../..:../../lib/fairseq'
 
-python ../../metacomp.py
+python -u ../../metacomp.py \
+  > run_noatt.out \
+  2> run.err

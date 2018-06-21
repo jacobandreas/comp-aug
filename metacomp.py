@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
 
 from grammar import GrammarBuilder
-from seq import Encoder, SimpleDecoder
+import hlog
+from seq import Encoder, SimpleDecoder, AttDecoder
+from vocab import Vocab
 
 import numpy as np
 import torch
 from torch import nn, optim
 import torch.utils.data as torch_data
 
-BATCH_LANGS = 10
+DEVICE=torch.device('cuda:0')
+
+BATCH_LANGS = 50
 BATCH_EXAMPLES = 5
 N_NT = 5
 N_T = 10
@@ -22,46 +26,6 @@ N_LAYERS = 1
 START = '<'
 MID = '|'
 END = '>'
-
-class Vocab(object):
-    PAD = '<pad>'
-    SOS = '<s>'
-    EOS = '</s>'
-
-    def __init__(self):
-        self._contents = {}
-        self._rev_contents = {}
-        self.add(self.PAD)
-        self.add(self.SOS)
-        self.add(self.EOS)
-
-    def add(self, sym):
-        if sym not in self._contents:
-            i = len(self._contents)
-            self._contents[sym] = i
-            self._rev_contents[i] = sym
-        return self._contents[sym]
-
-    def __getitem__(self, sym):
-        return self._contents[sym]
-
-    def __len__(self):
-        return len(self._contents)
-
-    def encode(self, seq):
-        return [self.sos()] + [self[i] for i in seq] + [self.eos()]
-
-    def decode(self, seq):
-        return ''.join(self._rev_contents[i] for i in seq)
-
-    def pad(self):
-        return self._contents[self.PAD]
-
-    def sos(self):
-        return self._contents[self.SOS]
-
-    def eos(self):
-        return self._contents[self.EOS]
 
 class Dataset(torch_data.Dataset):
     def __init__(self):
@@ -126,9 +90,10 @@ class Dataset(torch_data.Dataset):
             out_f_data[i, :len(out_f[i])] = out_f[i]
 
         return (
-            torch.tensor(ex_data),
-            torch.tensor(out_e_data),
-            torch.tensor(out_f_data)
+            torch.tensor(ex_data).to(DEVICE),
+            torch.tensor(out_e_data).to(DEVICE),
+            torch.tensor(out_f_data).to(DEVICE),
+            [self.vocab.decode(o[1:-1]) for o in out_f]
         )
 
 class Model(nn.Module):
@@ -138,7 +103,7 @@ class Model(nn.Module):
         self.out_encoder = Encoder(dataset.vocab, n_embed, n_hidden, n_layers)
         self.out_decoder = SimpleDecoder(dataset.vocab, n_embed, n_hidden, n_layers)
 
-    def forward(self, ex, out_e, out_f):
+    def _encode(self, ex, out_e):
         enc_ex, state_ex = self.ex_encoder(ex)
         enc_out, state_out = self.out_encoder(out_e)
 
@@ -146,25 +111,62 @@ class Model(nn.Module):
         state_h = (state_ex[0] + state_out[0]).sum(dim=0, keepdim=True)
         state_c = (state_ex[1] + state_out[1]).sum(dim=0, keepdim=True)
 
-        dec = self.out_decoder(out_f, (state_h, state_c))
+        return enc_out, (state_h, state_c)
+
+    def forward(self, ex, out_e, out_f):
+        context, state = self._encode(ex, out_e)
+        dec, _ = self.out_decoder(context, out_f, state)
         return dec
+
+    def decode(self, ex, out_e):
+        context, state = self._encode(ex, out_e)
+        return self.out_decoder.decode(context, state, DEVICE)
+
+class Trainer(object):
+    def __init__(self, dataset, model):
+        model.to(DEVICE)
+        objective = nn.CrossEntropyLoss(ignore_index=dataset.vocab.pad()).to(DEVICE)
+        self.dataset = dataset
+        self.model = model
+        self.objective = objective
+
+    @hlog.fn('train')
+    def train(self):
+        opt = optim.Adam(model.parameters(), lr=0.002)
+        sched = optim.lr_scheduler.ReduceLROnPlateau(
+            opt,
+            factor=0.5,
+            verbose=True
+        )
+        loader = torch_data.DataLoader(dataset, BATCH_LANGS, collate_fn=dataset.collate)
+        for i_epoch in hlog.loop('epoch_%03d', counter=range(1000)):
+            epoch_loss = 0
+            for ex, out_e, out_f, _ in loader:
+                n_tgts = BATCH_LANGS * (out_f.shape[1] - 1)
+                pred = self.model.forward(ex, out_e, out_f)[:, :-1, :]
+                pred = pred.contiguous().view(n_tgts, len(self.dataset.vocab))
+                tgt = out_f[:, 1:].contiguous().view(n_tgts)
+                loss = self.objective(pred, tgt)
+                opt.zero_grad()
+                loss.backward()
+                opt.step()
+
+                epoch_loss += float(loss)
+
+                #dec = self.model.decode(ex, out_e)
+                #print(dec)
+
+            hlog.value('loss', epoch_loss)
+            sched.step(epoch_loss)
+            
+            for ex, out_e, out_f, pp_f in loader:
+                dec = self.model.decode(ex, out_e)
+                dec = [self.dataset.vocab.decode(d) for d in dec]
+                for d, p in list(zip(dec, pp_f))[:5]:
+                    hlog.value('ex', '%s %s' % (d, p))
+                break
 
 dataset = Dataset()
 model = Model(dataset, N_EMB, N_HID, N_LAYERS)
-objective = nn.CrossEntropyLoss(ignore_index=dataset.vocab.pad())
-loader = torch_data.DataLoader(dataset, BATCH_LANGS, collate_fn=dataset.collate)
-opt = optim.Adam(model.parameters(), lr=0.003)
-
-for i_epoch in range(100):
-    epoch_loss = 0
-    for ex, out_e, out_f in loader:
-        n_tgts = BATCH_LANGS * (out_f.shape[1] - 1)
-        pred = model.forward(ex, out_e, out_f)[:, :-1, :]
-        pred = pred.contiguous().view(n_tgts, len(dataset.vocab))
-        tgt = out_f[:, 1:].contiguous().view(n_tgts)
-        loss = objective(pred, tgt)
-        opt.zero_grad()
-        loss.backward()
-        opt.step()
-        epoch_loss += loss
-    print(epoch_loss)
+trainer = Trainer(dataset, model)
+trainer.train()

@@ -58,6 +58,7 @@ class GrammarBuilder(object):
         nt_names = [chr(ord('A') + i) for i in range(n_nt)]
         t_e_names = [chr(ord('a') + i) for i in range(n_t)]
         t_f_names = [chr(ord('a') + i) for i in range(n_t)]
+        np.random.shuffle(t_f_names)
         #t_e_names = list(range(n_t))
         #t_f_names = list(range(n_t))
 
@@ -79,12 +80,11 @@ class GrammarBuilder(object):
         t_rules = []
         for _ in range(n_t_rules):
             lhs = np.random.randint(n_nt)
-            rhs_e = np.random.randint(n_t)
-            rhs_f = np.random.randint(n_t)
+            rhs = np.random.randint(n_t)
             t_rules.append(TRule(
                 nt_names[lhs],
-                t_e_names[rhs_e],
-                t_f_names[rhs_f]
+                t_e_names[rhs],
+                t_f_names[rhs]
             ))
 
         rules = {nt: [] for nt in nt_names}
