@@ -4,7 +4,7 @@ import hlog
 from seq import Encoder, SimpleDecoder, AttDecoder
 from vocab import Vocab
 
-from collections import namedtuple
+from collections import defaultdict, namedtuple
 import numpy as np
 from scipy import stats
 import torch
@@ -19,6 +19,8 @@ N_HID = 512
 N_LAYERS = 1
 
 BATCH_SIZE = 64
+#TRAIN_LENS = list(range(1, 10))
+#VAL_LENS = list(range(1, 10))
 TRAIN_LENS = [3, 4, 5, 6, 12, 13]
 VAL_LENS = [7, 8, 9, 10, 11]
 
@@ -69,41 +71,74 @@ class Model(nn.Module):
 
 #ActInfo = namedtuple('ActInfo', 'index seq counter completion')
 
+def counter_fn(sign=1, normalize=None):
+    def analyze(seq):
+        if normalize == 'first':
+            offset = seq[0]
+        elif normalize == 'last':
+            offset = seq[-1]
+            seq = list(reversed(seq))
+        else:
+            offset = 0
+        seq = [sign * (a - offset) for a in seq]
+        indices = list(range(len(seq)))
+        return indices, seq
+    return analyze
+
+def length_fn(sign=1):
+    def analyze(seq):
+        return [sign * len(seq)], [seq[0]]
+    return analyze
+
+ANALYZERS = {
+    'count+': counter_fn(),
+    'count-': counter_fn(sign=-1),
+    'count+f': counter_fn(normalize='first'),
+    'count-l': counter_fn(sign=-1, normalize='last'),
+    'len+': length_fn(),
+    'len-': length_fn(sign=-1)
+}
+
 def analyze(hiddens):
     n_a = N_HID * N_LAYERS
-    seq_data = {i_a: [] for i_a in range(n_a)}
-    count_data = []
-    comp_data = []
+
+    ana_data = {k: defaultdict(lambda: ([], [])) for k in ANALYZERS}
 
     for i in range(len(hiddens)):
         t = torch.stack(hiddens[i]).view(-1, n_a).t()
-        length = t.shape[1]
-        count = list(range(length))
-        comp = [float(c) / length for c in count]
-        count_data += count
-        comp_data += comp
         for i_a in range(n_a):
-            a = t[i_a, :].detach().cpu().numpy().tolist()
-            a = [aa - a[0] for aa in a]
-            seq_data[i_a] += a
+            seq = t[i_a, :].detach().cpu().numpy().tolist()
+            for name, ana in ANALYZERS.items():
+                x, y = ana(seq)
+                xs, ys = ana_data[name][i_a]
+                xs += x
+                ys += y
 
-    count_scores = {
-        i_a: stats.pearsonr(seq_data[i_a], count_data)[0]
-        for i_a in range(n_a)
-    }
+    for name in ANALYZERS:
+        scores = {i_a: stats.pearsonr(*ana_data[name][i_a]) for i_a in range(n_a)}
+        i_a = max(scores, key=lambda i: scores[i][0])
+        print(name)
+        print(scores[i_a])
+        for hseq in hiddens[:10]:
+            t = torch.stack(hseq).view(-1, n_a).t()
+            seq = t[i_a, :].detach().cpu().numpy().tolist()
+            print(' '.join('%0.2f' % ss for ss in seq))
+        print()
 
-    #comp_scores = {
-    #    i_a: stats.pearsonr(seq_data[i_a], comp_data)[0]
-    #    for i_a in range(n_a)
-    #}
 
-    i_counter, _ = max(count_scores.items(), key=lambda x: x[1])
-    print(max(count_scores.items(), key=lambda x: x[1]))
-    for hseq in hiddens:
-        t = torch.stack(hseq).view(-1, n_a).t()
-        s = t[i_counter, :].detach().cpu().numpy().tolist()
-        print(' '.join('%0.3f' % ss for ss in s))
-    print()
+    #i_counter, counter_score = min(scores.items(), key=lambda x: x[1])
+    #print(i_counter, counter_score)
+    #print(max(scores.items(), key=lambda x: x[1]))
+    #for hseq in hiddens:
+    #    t = torch.stack(hseq).view(-1, n_a).t()
+    #    s = t[i_counter, :].detach().cpu().numpy().tolist()
+    #    print(' '.join('%0.3f' % ss for ss in s))
+    #    increments = [s[i] - s[i-1] for i in range(1, len(s))]
+    #    print(' '.join('%0.3f' % ss for ss in increments))
+    #    print()
+    ##print(seq_data[i_counter])
+    #print(counter_score)
+    #print()
 
     #print(max(comp_scores.items(), key=lambda x: x[1]))
     #print(min(count_scores.items(), key=lambda x: x[1]))
